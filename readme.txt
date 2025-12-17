@@ -1,3 +1,13 @@
+basexperimental
+======
+
+a nuclide test game made by null to experiment with the features nuclide has to offer. It includes an array of new (many unlicensed) test maps and assets.
+
+======
+
+Original readme
+======
+
 Mayhem
 ======
 
