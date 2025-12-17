@@ -1,0 +1,59 @@
+---- light / ericw-tools 2.0.0-alpha8 ----
+LoadBSPFile: 'devtest_hlents.bsp'
+BSP is version Quake II BSP IBSP:38
+using gamedir: '/home/null/_01_projects/nuclide/base'
+WARNING: failed to find basedir '/home/null/_01_projects/nuclide/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+AddTextureName: WARNING: can't find meta data for measure/wall128gr
+AddTextureName: WARNING: can't find meta data for pbrtest/redbrick003
+AddTextureName: WARNING: can't find meta data for lights/k_10000
+AddTextureName: WARNING: can't find meta data for pbrtest/concrete028
+AddTextureName: WARNING: can't find meta data for pbrtest/tiles052
+AddTextureName: WARNING: can't find meta data for skybox/sundown
+AddTextureName: WARNING: can't find meta data for pbrtest/pavingstones094
+AddTextureName: WARNING: can't find meta data for liquid/water5
+AddTextureName: WARNING: can't find meta data for measure/floor
+AddTextureName: WARNING: can't find meta data for measure/door
+Loading extended texinfo flags from devtest_hlents.texinfo.json...
+WARNING: entity at (416 672 -120) (env_cubemap) has empty key/value "targetname" ""
+8 entities read, 3 are lights.
+
+--- Options Summary ---
+    "range" was set to "1.000000" (from game target)
+    "dirt" was set to "1" (from command line)
+    "dirtdepth" was set to "256.000000" (from command line)
+    "minlight_dirt" was set to "1" (from command line)
+    "bounce" was set to "1" (from command line)
+    "bouncestyled" was set to "1" (from game target)
+    "bouncescale" was set to "1.000000" (from command line)
+    "bouncecolorscale" was set to "0.500000" (from game target)
+    "surflightscale" was set to "0.650000" (from game target)
+    "surflightskyscale" was set to "0.650000" (from game target)
+    "sunlight_dirt" was set to "1.000000" (from command line)
+    "sunlight2_dirt" was set to "1.000000" (from command line)
+    "surflight_radiosity" was set to "1" (from game target)
+    "soft" was set to "2" (from command line)
+    "extra" was set to "4" (from command line)
+
+Embree_TraceInit: Embree version: 3.13.1
+Embree_TraceInit: 
+	27 sky faces
+	1357 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 3 initial lights
+SetupLights: 3 after surface lights
+SetupLights: 3 after jittering
+Final count: 3 lights, 1 suns in use.
+       48 dirtmap vectors
+8 surface light points in use.
+lightmap size (total): 705024
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing devtest_hlents.bsp as Quake II BSP IBSP:38
+8.843s seconds elapsed
+0 empty lightmaps
+
+

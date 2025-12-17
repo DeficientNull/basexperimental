@@ -1,0 +1,43 @@
+$position -1 -1
+$effect 0
+$color 255 255 255
+$color2 255 0 0
+$fxtime 0.25
+$holdtime 1
+$fadein 0.5
+$fadeout 0.5
+
+TESTMSG
+{
+	= Test Message =
+	This should be centered.
+}
+
+
+MENUTEST
+{
+	1. Say "Hello World!"
+	2. Play a sound.
+	3. Toggle Material Inspector
+	4. 
+	5. Second Menu Test
+	6.
+	7.
+	8.
+	9. Close this Menu.
+}
+
+
+
+MENUTEST2
+{
+	1. This is just
+	2. another test
+	3. menu.
+	4. 
+	5.
+	6. 
+	7.
+	8.
+	9. Back
+}

@@ -1,0 +1,199 @@
+---- qbsp / ericw-tools 2.0.0-alpha8 ----
+
+--- Options Summary ---
+    "q2bsp" was set to "1" (from command line)
+    "chop" was set to "1" (from game target)
+    "wrbrushes" was set to "1" (from command line)
+    "maxedges" was set to "0" (from game target)
+
+Input file: /home/null/_01_projects/nuclide/base/maps/devtest_hlents-compile.map
+Output file: /home/null/_01_projects/nuclide/base/maps/devtest_hlents.bsp
+
+using gamedir: '/home/null/_01_projects/nuclide/base'
+WARNING: failed to find basedir '/home/null/_01_projects/nuclide/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+WARNING: Couldn't locate texture for skip
+      8 entities
+     12 unique textures
+    179 texinfos
+    192 unique planes
+
+INFO: world extents calculated to 1976 units
+     75 brushes
+      1 utility brushes removed
+      1 brushes offset by origins
+    450 sides
+      3 side bevels
+
+Processing map...
+     1 WATER brushes
+    73 SOLID brushes
+    74 brushes total
+    444 visible sides
+INFO: calculating BSP for 74 brushes with 444 sides
+chopped 74 brushes into 74
+    4 brushes created from the chompening
+     74 brushes
+    440 visible faces
+      4 non-visible faces
+    386 nodes
+    355 expensive split nodes
+     31 mid-split nodes
+    387 leaves
+      1 WATER leafs
+    157 SOLID leafs
+    229 EMPTY leafs
+    387 leafs total
+    16 max tree height
+    11 avg tree height
+    1,726 tree portals
+    169 outside leaves
+    0 detail filled leafs
+     74 brushes
+    149 visible faces
+    295 non-visible faces
+    324 nodes
+    200 non-visible nodes
+    324 expensive split nodes
+    325 leaves
+      1 WATER leafs
+    131 SOLID leafs
+    193 EMPTY leafs
+    325 leafs total
+    18 max tree height
+    10 avg tree height
+    1,512 tree portals
+    144 outside leaves
+    0 detail filled leafs
+    1 areas
+    1 area portals
+    1,512 tree portals
+    556 sides visible
+      276 makefaces
+       94 merged
+    1,094 subdivided
+    211 nodes pruned
+     50 player-occupiable leaves
+     50 clusters of leaves
+    113 vis portals
+      1 WATER leafs
+     49 EMPTY leafs
+     64 SOLID leafs
+    114 leafs total
+    15 max tree height
+    10 avg tree height
+      684 edges added by tjunctions
+    1,275 faces optimized through MWT
+    3,235 triangles computed from MWT
+      116 faces created via optimization of MWT triangles
+    3,022 edges
+    1,392 faces
+     74 total brushes
+    447 total brush sides
+    108 total leaf brushes
+    132 optimized brush side texinfos
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: WATER. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+WARNING: Unknown contents: SOLID. Translating to solid.
+Writing devtest_hlents.bsp as Quake II BSP IBSP:38
+Wrote devtest_hlents.bsp
+
+count   lump name    byte size 
+      2 models               96
+    160 planes             3200
+   1614 vertexes          19368
+    119 nodes              3332
+    105 texinfos           7980
+   1398 faces             27960
+    122 leafs              3416
+   1608 leaffaces          3216
+    109 leafbrushes         218
+   3035 edges             12140
+   6044 surfedges         24176
+     75 brushes             900
+    453 brushsides         1812
+      2 areas                16
+      1 areaportals           8
+        lightdata             0
+        visdata               0
+        entdata             529
+
+BSPX lump name   byte size 
+BRUSHLIST              2180
+
+0.068s seconds elapsed
+
+

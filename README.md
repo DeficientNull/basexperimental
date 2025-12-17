@@ -1,2 +1,15 @@
-# basexperimental
- a hub for all my nuclide based experiments
+# Mayhem
+
+## Overview
+
+- FPS game sample
+- Using LQ assets
+
+## Credits
+
+- eukara
+- LibreQuake team
+
+## License
+
+ISC

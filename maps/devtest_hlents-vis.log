@@ -1,0 +1,23 @@
+---- vis / ericw-tools 2.0.0-alpha8 ----
+
+--- Options Summary ---
+
+LoadBSPFile: 'devtest_hlents.bsp'
+BSP is version Quake II BSP IBSP:38
+using gamedir: '/home/null/_01_projects/nuclide/base'
+WARNING: failed to find basedir '/home/null/_01_projects/nuclide/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+    50 clusters
+   113 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average clusters visible: 40
+c_noclip: 0
+c_chains: 18169
+visdatasize:356  compressed from 350
+Writing devtest_hlents.bsp as Quake II BSP IBSP:38
+0.01s elapsed
+
+

@@ -1,0 +1,99 @@
+25000
+_______________________________________2025-12-17_00:16:33
+1
+Player
+{
+	parm0 0x0 //0
+	parm1 0x0 //0
+	parm2 0x0 //0
+	parm3 0xc0a75800 //-5.22949219
+	parm4 0xc230dba0 //-44.2144775
+	parm5 0x0 //0
+	parm6 0x0 //0
+	parm7 0x0 //0
+	parm8 0x0 //0
+	parm9 0x0 //0
+	parm10 0x0 //0
+	parm11 0x0 //0
+	parm12 0x0 //0
+	parm13 0x0 //0
+	parm14 0x0 //0
+	parm15 0x0 //0
+	parm16 0x0 //0
+	parm17 0x41000000 //8
+	parm18 0x0 //0
+	parm19 0x0 //0
+	parm20 0x0 //0
+	parm21 0x0 //0
+	parm22 0x0 //0
+	parm23 0x0 //0
+	parm24 0x0 //0
+	parm25 0x0 //0
+	parm26 0x0 //0
+	parm27 0x0 //0
+	parm28 0x0 //0
+	parm29 0x0 //0
+	parm30 0x0 //0
+	parm31 0x0 //0
+	parm32 0x0 //0
+	parm33 0x0 //0
+	parm34 0x0 //0
+	parm35 0x0 //0
+	parm36 0x0 //0
+	parm37 0x0 //0
+	parm38 0x0 //0
+	parm39 0x0 //0
+	parm40 0x0 //0
+	parm41 0x0 //0
+	parm42 0x0 //0
+	parm43 0x0 //0
+	parm44 0x0 //0
+	parm45 0x0 //0
+	parm46 0x0 //0
+	parm47 0x0 //0
+	parm48 0x0 //0
+	parm49 0x0 //0
+	parm50 0x0 //0
+	parm51 0x0 //0
+	parm52 0x0 //0
+	parm53 0x0 //0
+	parm54 0x0 //0
+	parm55 0x0 //0
+	parm56 0x0 //0
+	parm57 0x0 //0
+	parm58 0x0 //0
+	parm59 0x0 //0
+	parm60 0x0 //0
+	parm61 0x0 //0
+	parm62 0x0 //0
+	parm63 0x0 //0
+	parm_string ""
+}
+\maxclients\8\maxspectators\8\hostname\Mayhem Server\maxpitch\89\minpitch\-89\pm_edgefriction\1\teamspawn_1001\info_player_start\teamspawn_1002\info_spectator_start\mode\singleplayer\background\0\sv_playerslots\1\votes_y\0\votes_n\0\hdr_iris_minvalue\0\hdr_iris_maxvalue\1.5\hdr_iris_multiplier\0.75\hdr_iris_fade_up\0.100000001\hdr_iris_fade_down\0.2\hdr\0\gametitle\0\startdark\0\litwater\0\map\ai_path\physics\1\fraglimit\0.000000\timelimit\10.000000\g_gametype\singleplayer\mapname\ai_path\skill\2\deathmatch\0
+
+{
+skill			"2"
+deathmatch		"0"
+coop			"0"
+teamplay		""
+nomonsters		"0"
+gamecfg			"0"
+scratch1		"0"
+scratch2		"0"
+scratch3		"0"
+scratch4		"0"
+savedgamecfg		"0"
+saved1			"0"
+saved2			"0"
+saved3			"0"
+saved4			"0"
+temp1			"0"
+noexit			"0"
+pr_maxedicts		"131072"
+progs			""
+set nextserver		""
+}
+{
+}
+ai_path
+0
