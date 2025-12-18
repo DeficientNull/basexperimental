@@ -845,3 +845,46 @@
 0:39 Item: 0 weapon_rifle
 1:19 ShutdownGame:
 1:19 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking.map\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking.map\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking.map\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\buidlingtest\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:11 ShutdownGame:
+1:11 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\buidlingtest\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
