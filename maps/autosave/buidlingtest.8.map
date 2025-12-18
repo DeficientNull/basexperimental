@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"_tb_textures" "textures;textures/common;textures/decals;textures/detail;textures/dev;textures/env;textures/lights;textures/liquid;textures/measure;textures/pbrtest;textures/skybox;textures/working/permissive/downpour/City/City_Brick"
+"_tb_textures" "textures;textures/common;textures/decals;textures/detail;textures/dev;textures/env;textures/lights;textures/liquid;textures/measure;textures/pbrtest;textures/skybox"
 "_tb_def" "external:/home/null/_01_projects/nuclide/halflife.fgd"
 "_tb_mod" "basexperimental"
 // brush 0
@@ -1392,6 +1392,15 @@
 ( 0 -672 304 ) ( 0 -671 304 ) ( 1 -672 304 ) skybox/sundown [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
 ( 0 -672 304 ) ( 1 -672 304 ) ( 0 -672 305 ) skybox/sundown [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 0 -672 304 ) ( 0 -672 305 ) ( 0 -671 304 ) skybox/sundown [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 154
+{
+( -240 -192 16 ) ( -240 -191 16 ) ( -240 -192 17 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -240 -192 16 ) ( -240 -192 17 ) ( -239 -192 16 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -240 -192 16 ) ( -239 -192 16 ) ( -240 -191 16 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -112 -176 144 ) ( -112 -175 144 ) ( -111 -176 144 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -112 -176 32 ) ( -111 -176 32 ) ( -112 -176 33 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -112 -176 32 ) ( -112 -176 33 ) ( -112 -175 32 ) null/licensse_permissive/project_downpour/City/City_Brick/gray002 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
 }
 // entity 1
