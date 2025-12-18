@@ -201,7 +201,7 @@
 ( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 64 80 0 ) ( 64 80 1 ) ( 65 80 0 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) null/licensse_permissive/project_downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( 208 512 48 ) ( 208 513 48 ) ( 209 512 48 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 48 ) ( 208 513 48 ) ( 209 512 48 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ -4.371139006309477e-08 0.999999999999999 -2.2204460492503109e-16 0 ] [ -0.999999999999999 -4.371139006309477e-08 9.705878337283817e-24 0 ] 90 0.5 0.5
 ( 64 384 0 ) ( 65 384 0 ) ( 64 384 1 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
@@ -209,7 +209,7 @@
 {
 ( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 64 80 0 ) ( 64 80 1 ) ( 65 80 0 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
-( 208 512 112 ) ( 209 512 112 ) ( 208 513 112 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 112 ) ( 209 512 112 ) ( 208 513 112 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ -4.371139006309477e-08 0.999999999999999 -2.2204460492503109e-16 0 ] [ -0.999999999999999 -4.371139006309477e-08 9.705878337283817e-24 0 ] 90 0.5 0.5
 ( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
 ( 64 384 0 ) ( 65 384 0 ) ( 64 384 1 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) null/licensse_permissive/project_downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
@@ -885,7 +885,7 @@
 ( 880 -224 272 ) ( 880 -223 272 ) ( 880 -224 273 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 -224 272 ) ( 880 -224 273 ) ( 881 -224 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 -224 272 ) ( 881 -224 272 ) ( 880 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( 1472 704 288 ) ( 1472 705 288 ) ( 1473 704 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1472 704 288 ) ( 1472 705 288 ) ( 1473 704 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 1472 704 288 ) ( 1473 704 288 ) ( 1472 704 289 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 1472 704 288 ) ( 1472 704 289 ) ( 1472 705 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
@@ -894,7 +894,7 @@
 ( -288 -224 272 ) ( -288 -223 272 ) ( -288 -224 273 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 -224 272 ) ( 880 -224 273 ) ( 881 -224 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 -224 272 ) ( 881 -224 272 ) ( 880 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( 1472 704 288 ) ( 1472 705 288 ) ( 1473 704 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1472 704 288 ) ( 1472 705 288 ) ( 1473 704 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 1472 704 288 ) ( 1473 704 288 ) ( 1472 704 289 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 336 -224 272 ) ( 336 -224 273 ) ( 336 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
@@ -902,8 +902,8 @@
 {
 ( 336 -224 272 ) ( 336 -223 272 ) ( 336 -224 273 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 336 -224 272 ) ( 336 -224 273 ) ( 337 -224 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
-( 336 -224 272 ) ( 337 -224 272 ) ( 336 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
-( 880 32 288 ) ( 880 33 288 ) ( 881 32 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 336 -224 272 ) ( 337 -224 272 ) ( 336 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 880 32 288 ) ( 880 33 288 ) ( 881 32 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 880 32 288 ) ( 881 32 288 ) ( 880 32 289 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 880 32 288 ) ( 880 32 289 ) ( 880 33 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
@@ -912,7 +912,7 @@
 ( 336 -224 272 ) ( 336 -223 272 ) ( 336 -224 273 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 448 288 ) ( 880 448 289 ) ( 881 448 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 336 -224 272 ) ( 337 -224 272 ) ( 336 -223 272 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( 880 32 288 ) ( 880 33 288 ) ( 881 32 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 880 32 288 ) ( 880 33 288 ) ( 881 32 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 880 704 288 ) ( 881 704 288 ) ( 880 704 289 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 880 32 288 ) ( 880 32 289 ) ( 880 33 288 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/DFLAT14 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
@@ -1060,20 +1060,7 @@
 ( -256 -112 32 ) ( -255 -112 32 ) ( -256 -112 33 ) null/licensse_permissive/project_downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( -256 -224 32 ) ( -256 -224 33 ) ( -256 -223 32 ) null/licensse_permissive/project_downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-}
-// entity 1
-{
-"classname" "info_player_start"
-"origin" "-40 632 52"
-}
-// entity 2
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "lights"
-"_tb_id" "1"
-"_tb_linked_group_id" "{6a2ad691-4b77-4f14-8e09-0b0144f0851e}"
-// brush 0
+// brush 117
 {
 ( -168 456 144 ) ( -168 457 144 ) ( -168 456 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( -168 456 144 ) ( -168 456 145 ) ( -167 456 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
@@ -1082,7 +1069,7 @@
 ( -152 464 152 ) ( -151 464 152 ) ( -152 464 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( -152 464 152 ) ( -152 464 153 ) ( -152 465 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 1
+// brush 118
 {
 ( -192 456 152 ) ( -192 457 152 ) ( -192 456 153 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -200 456 152 ) ( -200 456 153 ) ( -199 456 152 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -1091,8 +1078,58 @@
 ( -144 464 160 ) ( -143 464 160 ) ( -144 464 161 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -128 464 160 ) ( -128 464 161 ) ( -128 465 160 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+// brush 119
+{
+( -168 616 144 ) ( -168 617 144 ) ( -168 616 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 616 144 ) ( -168 616 145 ) ( -167 616 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 616 144 ) ( -167 616 144 ) ( -168 617 144 ) lights/k_3000 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 624 152 ) ( -152 625 152 ) ( -151 624 152 ) lights/k_3000 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 624 152 ) ( -151 624 152 ) ( -152 624 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -152 624 152 ) ( -152 624 153 ) ( -152 625 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// entity 3
+// brush 120
+{
+( -192 616 152 ) ( -192 617 152 ) ( -192 616 153 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 160 ] [ 0 0 -1 0 ] 0 1 1
+( -200 616 152 ) ( -200 616 153 ) ( -199 616 152 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -200 616 152 ) ( -199 616 152 ) ( -200 617 152 ) null/licensse_permissive/project_downpour/Lights/light06 [ 4.371139006309477e-08 -0.999999999999999 0 0 ] [ 0.999999999999999 4.371139006309477e-08 0 0 ] 90 1 1
+( -144 624 160 ) ( -144 625 160 ) ( -143 624 160 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 0 160 ] 0 1 1
+( -144 624 160 ) ( -143 624 160 ) ( -144 624 161 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -128 624 160 ) ( -128 624 161 ) ( -128 625 160 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 -160 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 121
+{
+( -264 -160 -16 ) ( -264 -159 -16 ) ( -264 -160 -15 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -16 ) ( -272 -160 -15 ) ( -271 -160 -16 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -8 ) ( -271 -160 -8 ) ( -272 -159 -8 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -176 -143 0 ) ( -175 -144 0 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -175 -144 0 ) ( -176 -144 1 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 -144 0 ) ( 8 -144 1 ) ( 8 -143 0 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 122
+{
+( -272 -144 -152 ) ( -128 -144 -8 ) ( -128 -160 -8 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0.49999999999999867 0 0.500000000000002 24.000008 ] [ 0 -1 0 -6 ] 18.43495 1 1
+( -128 -160 -8 ) ( -120 -160 -8 ) ( -264 -160 -152 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 327.23712 1 1
+( -264 -144 -152 ) ( -272 -144 -152 ) ( -272 -160 -152 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 -1 0 -32 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 -144 -8 ) ( -120 -144 -8 ) ( -120 -160 -8 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 1 0 32 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 -144 -152 ) ( -120 -144 -8 ) ( -128 -144 -8 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 32.76288 1 1
+( -120 -160 -8 ) ( -120 -144 -8 ) ( -264 -144 -152 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -0.49999999999999534 0 -0.5000000000000049 -16 ] [ 0 -1 0 -6 ] 18.43495 1 1
+}
+// brush 123
+{
+( -272 -160 -16 ) ( -272 -159 -16 ) ( -272 -160 -15 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -16 ) ( -272 -160 -15 ) ( -271 -160 -16 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -336 ) ( -271 -160 -336 ) ( -272 -159 -336 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -176 -143 0 ) ( -175 -144 0 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -175 -144 0 ) ( -176 -144 1 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 -160 -16 ) ( -264 -160 -15 ) ( -264 -159 -16 ) null/licensse_permissive/project_downpour/Metal/Metal_Industrial/BTRTIM1 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "-40 632 52"
+}
+// entity 2
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -1119,7 +1156,7 @@
 ( -128 304 160 ) ( -128 304 161 ) ( -128 305 160 ) null/licensse_permissive/project_downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 160 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 4
+// entity 3
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
