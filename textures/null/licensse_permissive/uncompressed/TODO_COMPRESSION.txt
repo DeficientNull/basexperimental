@@ -1,0 +1,1 @@
+The textures in this folder are not yet compressed to meet the standards of other textures in this category, so i'm leaving them here until further notice
