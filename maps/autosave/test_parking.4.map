@@ -1230,10 +1230,11 @@
 // entity 2
 {
 "classname" "env_glow"
-"origin" "-156 300 124"
-"model" "sprites/light_glow03.tga"
+"origin" "-156 300 140"
+"model" "sprites/glow_test03.tga"
 "scale" "0.5"
 "renderamt" "255"
+"material" "sprites/light_glow03.tga"
 "rendermode" "3"
 "renderfx" "14"
 "rendercolor" "255 255 255"
