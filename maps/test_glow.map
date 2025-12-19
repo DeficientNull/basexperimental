@@ -3061,29 +3061,15 @@
 "delay" "0"
 // brush 0
 {
-( -152 96 32 ) ( -152 96 33 ) ( -152 95 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 13.6666565 ] [ 0 0 -1 3 ] 0 1.2 1
-( -336 -480 32 ) ( -336 -480 33 ) ( -335 -480 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -528 128 16 ) ( -528 127 16 ) ( -527 128 16 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 -16 ] 270 1 1
-( -528 128 128 ) ( -527 128 128 ) ( -528 127 128 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 -16 ] 90 1 1
-( -336 -320 32 ) ( -335 -320 32 ) ( -336 -320 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -144 96 32 ) ( -144 95 32 ) ( -144 96 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 13.6666565 ] [ 0 0 -1 3 ] 0 1.2 1
+( 72 144 32 ) ( 72 144 33 ) ( 72 143 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -26.333344 ] [ 0 0 -1 3 ] 0 1.2 1
+( -112 -432 32 ) ( -112 -432 33 ) ( -111 -432 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 -80 ] [ 0 0 -1 0 ] 0 1 1
+( -304 176 16 ) ( -304 175 16 ) ( -303 176 16 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 48 ] [ -1 -6.123233995736766e-17 0 80 ] 270 1 1
+( -304 176 128 ) ( -303 176 128 ) ( -304 175 128 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 48 ] [ -1 -6.123233995736766e-17 0 80 ] 90 1 1
+( -112 -272 32 ) ( -111 -272 32 ) ( -112 -272 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 -80 ] [ 0 0 -1 0 ] 0 1 1
+( 80 144 32 ) ( 80 143 32 ) ( 80 144 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -26.333344 ] [ 0 0 -1 3 ] 0 1.2 1
 }
 }
 // entity 36
-{
-"classname" "func_breakable"
-"health" "20"
-// brush 0
-{
-( -96 -128 24 ) ( -96 -127 24 ) ( -96 -128 25 ) working/permissive/downpour/Usable/Doors/door2 [ 6.123233995736766e-17 1 0 0 ] [ 0 0 -1 10 ] 0 1 0.8
-( -88 -192 16 ) ( -89 -192 16 ) ( -88 -192 17 ) working/permissive/downpour/Usable/Doors/door2 [ 1 2.220446049250313e-16 0 -40 ] [ 0 0 -1 10 ] 0 1 0.8
-( -88 -192 16 ) ( -88 -191 16 ) ( -89 -192 16 ) working/permissive/downpour/Usable/Doors/door2 [ -6.123233995736766e-17 -1 0 -48 ] [ 1 -6.123233995736766e-17 0 -96 ] 90 0.2 0.2
-( -96 -128 112 ) ( -97 -128 112 ) ( -96 -127 112 ) working/permissive/downpour/Usable/Doors/door2 [ 6.123233995736766e-17 1 0 48 ] [ 1 -6.123233995736766e-17 0 -96 ] 270 0.2 0.2
-( -96 -128 24 ) ( -96 -128 25 ) ( -97 -128 24 ) working/permissive/downpour/Usable/Doors/door2 [ -1 2.220446049250313e-16 0 -24 ] [ 0 0 -1 10 ] 0 1 0.8
-( -88 -192 16 ) ( -88 -192 17 ) ( -88 -191 16 ) working/permissive/downpour/Usable/Doors/door2 [ 6.123233995736766e-17 1 0 0 ] [ 0 0 -1 10 ] 0 1 0.8
-}
-}
-// entity 37
 {
 "classname" "light_spot"
 "origin" "1416 -168 168"
