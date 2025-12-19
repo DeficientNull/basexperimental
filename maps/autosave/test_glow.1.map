@@ -446,7 +446,7 @@
 ( -288 -208 -512 ) ( -287 -208 -512 ) ( -288 -207 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( -272 80 0 ) ( -272 81 0 ) ( -271 80 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 80 80 16 ) ( 80 80 17 ) ( 80 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 96 80 16 ) ( 96 80 17 ) ( 96 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 // brush 49
 {
@@ -902,7 +902,7 @@
 {
 ( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 64 -576 0 ) ( 64 -576 1 ) ( 65 -576 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
-( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 32 ] 0 0.5 0.5
 ( 208 512 256 ) ( 208 513 256 ) ( 209 512 256 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
 ( 64 -432 0 ) ( 65 -432 0 ) ( 64 -432 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 -4.440892098500626e-16 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 96 384 0 ) ( 96 384 1 ) ( 96 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -2.7755575615628914e-16 -1 0 -52 ] [ 0 0 -1 -240 ] 0 1 1
@@ -983,7 +983,7 @@
 {
 ( -256 384 0 ) ( -256 385 0 ) ( -256 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 64 -592 0 ) ( 64 -592 1 ) ( 65 -592 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
-( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 32 ] 0 0.5 0.5
 ( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
 ( 64 -576 0 ) ( 65 -576 0 ) ( 64 -576 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 160 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
@@ -1161,22 +1161,13 @@
 // brush 128
 {
 ( -288 -224 320 ) ( -288 704 272 ) ( -288 704 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1472 -224 320 ) ( -288 -224 272 ) ( -288 -224 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 -784 320 ) ( -288 -784 272 ) ( -288 -784 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 1472 704 272 ) ( -288 -224 272 ) ( 1472 -224 272 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 1472 704 320 ) ( -288 -224 320 ) ( -288 704 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( 1472 704 320 ) ( -288 704 272 ) ( 1472 704 272 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1472 704 320 ) ( 1472 -224 272 ) ( 1472 -224 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1680 704 320 ) ( 1680 -224 272 ) ( 1680 -224 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 // brush 129
-{
-( 1456 80 16 ) ( 1456 81 16 ) ( 1456 80 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 1 0 -112 ] [ 0 0 -1 0 ] 0 1 1
-( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -240 ] 0 1 1
-( 1456 256 0 ) ( 1584 288 0 ) ( 1456 288 0 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -288 720 0 ) ( -287 720 0 ) ( -288 720 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1664 80 16 ) ( 1664 80 17 ) ( 1664 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 130
 {
 ( 1456 720 -496 ) ( 1456 721 -496 ) ( 1456 720 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -1 0 ] 0 1 1
 ( 1024 -208 -512 ) ( 1024 -208 -511 ) ( 1025 -208 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1185,7 +1176,7 @@
 ( 1104 704 -496 ) ( 1105 704 -496 ) ( 1104 704 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 1648 720 -496 ) ( 1648 720 -495 ) ( 1648 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 131
+// brush 130
 {
 ( 1648 96 16 ) ( 1648 97 16 ) ( 1648 96 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( -272 -208 16 ) ( -272 -208 17 ) ( -271 -208 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
@@ -1194,7 +1185,7 @@
 ( -272 720 16 ) ( -271 720 16 ) ( -272 720 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
 ( 1664 96 16 ) ( 1664 96 17 ) ( 1664 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 2 2
 }
-// brush 132
+// brush 131
 {
 ( 1600 96 16 ) ( 1600 97 16 ) ( 1600 96 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 316 ] [ 0 0 -1 -240 ] 0 1 1
 ( -272 -224 16 ) ( -272 -224 17 ) ( -271 -224 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1203,7 +1194,7 @@
 ( -272 -208 16 ) ( -271 -208 16 ) ( -272 -208 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -468 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1664 96 16 ) ( 1664 96 17 ) ( 1664 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 }
-// brush 133
+// brush 132
 {
 ( 1456 720 -496 ) ( 1456 721 -496 ) ( 1456 720 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -1 0 ] 0 1 1
 ( 1024 -224 -512 ) ( 1024 -224 -511 ) ( 1025 -224 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1212,7 +1203,7 @@
 ( 1024 -208 -512 ) ( 1025 -208 -512 ) ( 1024 -208 -511 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
 ( 1648 720 -496 ) ( 1648 720 -495 ) ( 1648 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 134
+// brush 133
 {
 ( 1456 720 -496 ) ( 1456 721 -496 ) ( 1456 720 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -1 0 ] 0 1 1
 ( 1024 -480 -512 ) ( 1024 -480 -511 ) ( 1025 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1221,7 +1212,7 @@
 ( 1024 -224 -512 ) ( 1025 -224 -512 ) ( 1024 -224 -511 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
 ( 1648 720 -496 ) ( 1648 720 -495 ) ( 1648 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 135
+// brush 134
 {
 ( 896 -224 0 ) ( 896 -480 0 ) ( 896 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -0.5312499999999999 -16 ] 0 1 1
 ( 896 -480 0 ) ( 1456 -480 -240 ) ( 1456 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1230,7 +1221,7 @@
 ( 896 -224 0 ) ( 1456 -224 -240 ) ( 1456 -480 -240 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 0.8448275862068693 0 -0.36206896551730433 139.03448 ] [ 0 -1 0 0 ] 28.614422 1 1
 ( 1456 -480 -240 ) ( 1456 -224 -240 ) ( 1456 -224 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -1 0 ] 0 1 1
 }
-// brush 136
+// brush 135
 {
 ( 96 -224 0 ) ( 96 -480 0 ) ( 96 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -0.5312499999999999 -16 ] 0 1 1
 ( 896 -480 0 ) ( 1456 -480 -240 ) ( 1456 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1239,7 +1230,7 @@
 ( 1456 -224 -512 ) ( 1456 -224 -240 ) ( 896 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
 ( 896 -224 0 ) ( 896 -480 -512 ) ( 896 -480 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -0.5312499999999999 -16 ] 0 1 1
 }
-// brush 137
+// brush 136
 {
 ( 592 -224 0 ) ( 592 -480 0 ) ( 592 -480 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -0.5312499999999999 -16 ] 0 1 1
 ( 896 -688 0 ) ( 1456 -688 -240 ) ( 1456 -688 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
@@ -1248,7 +1239,7 @@
 ( 896 -480 0 ) ( 1456 -480 -512 ) ( 1456 -480 -240 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1648 -224 0 ) ( 1648 -480 -512 ) ( 1648 -480 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 2.220446049250313e-16 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
-// brush 138
+// brush 137
 {
 ( 1648 96 16 ) ( 1648 97 16 ) ( 1648 96 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( -272 -688 16 ) ( -272 -688 17 ) ( -271 -688 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
@@ -1257,7 +1248,7 @@
 ( -272 -208 16 ) ( -271 -208 16 ) ( -272 -208 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
 ( 1664 96 16 ) ( 1664 96 17 ) ( 1664 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 2 2
 }
-// brush 139
+// brush 138
 {
 ( 592 96 16 ) ( 592 97 16 ) ( 592 96 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( -272 -704 16 ) ( -272 -704 17 ) ( -271 -704 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
@@ -1266,7 +1257,7 @@
 ( -272 -688 16 ) ( -271 -688 16 ) ( -272 -688 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1664 96 16 ) ( 1664 96 17 ) ( 1664 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 2 2
 }
-// brush 140
+// brush 139
 {
 ( 592 -672 128 ) ( 592 -671 128 ) ( 592 -672 129 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 332 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1008 -672 128 ) ( 1008 -672 129 ) ( 1009 -672 128 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1275,7 +1266,7 @@
 ( 1648 -480 144 ) ( 1649 -480 144 ) ( 1648 -480 145 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1648 -464 144 ) ( 1648 -464 145 ) ( 1648 -463 144 ) working/permissive/downpour/City/City_Buildings/CRWALL5 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
-// brush 141
+// brush 140
 {
 ( 1616 -496 0 ) ( 1616 -495 0 ) ( 1616 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1568 -512 0 ) ( 1568 -512 1 ) ( 1569 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1284,7 +1275,7 @@
 ( 1648 -480 16 ) ( 1649 -480 16 ) ( 1648 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1648 -480 16 ) ( 1648 -480 17 ) ( 1648 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 142
+// brush 141
 {
 ( 1536 -496 0 ) ( 1536 -495 0 ) ( 1536 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1488 -512 0 ) ( 1488 -512 1 ) ( 1489 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1293,7 +1284,7 @@
 ( 1568 -480 16 ) ( 1569 -480 16 ) ( 1568 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1568 -480 16 ) ( 1568 -480 17 ) ( 1568 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 428 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 143
+// brush 142
 {
 ( 1440 -496 0 ) ( 1440 -495 0 ) ( 1440 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1392 -512 0 ) ( 1392 -512 1 ) ( 1393 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -52 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1302,7 +1293,7 @@
 ( 1472 -480 16 ) ( 1473 -480 16 ) ( 1472 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1472 -480 16 ) ( 1472 -480 17 ) ( 1472 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 428 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 144
+// brush 143
 {
 ( 1344 -496 0 ) ( 1344 -495 0 ) ( 1344 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1296 -512 0 ) ( 1296 -512 1 ) ( 1297 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 44 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1311,7 +1302,7 @@
 ( 1376 -480 16 ) ( 1377 -480 16 ) ( 1376 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1376 -480 16 ) ( 1376 -480 17 ) ( 1376 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 428 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 145
+// brush 144
 {
 ( 1248 -496 0 ) ( 1248 -495 0 ) ( 1248 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1200 -512 0 ) ( 1200 -512 1 ) ( 1201 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1320,7 +1311,7 @@
 ( 1280 -480 16 ) ( 1281 -480 16 ) ( 1280 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1280 -480 16 ) ( 1280 -480 17 ) ( 1280 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 396 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 146
+// brush 145
 {
 ( 1152 -496 0 ) ( 1152 -495 0 ) ( 1152 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1104 -512 0 ) ( 1104 -512 1 ) ( 1105 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 236 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1329,7 +1320,7 @@
 ( 1184 -480 16 ) ( 1185 -480 16 ) ( 1184 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1184 -480 16 ) ( 1184 -480 17 ) ( 1184 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 396 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 147
+// brush 146
 {
 ( 1056 -496 0 ) ( 1056 -495 0 ) ( 1056 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1008 -512 0 ) ( 1008 -512 1 ) ( 1009 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 332 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1338,7 +1329,7 @@
 ( 1088 -480 16 ) ( 1089 -480 16 ) ( 1088 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1088 -480 16 ) ( 1088 -480 17 ) ( 1088 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 396 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 148
+// brush 147
 {
 ( 960 -496 0 ) ( 960 -495 0 ) ( 960 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -240 ] 0 1 1
 ( 912 -512 0 ) ( 912 -512 1 ) ( 913 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 428 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1347,7 +1338,7 @@
 ( 992 -480 16 ) ( 993 -480 16 ) ( 992 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 992 -480 16 ) ( 992 -480 17 ) ( 992 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 149
+// brush 148
 {
 ( 864 -496 0 ) ( 864 -495 0 ) ( 864 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 816 -512 0 ) ( 816 -512 1 ) ( 817 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1356,7 +1347,7 @@
 ( 896 -480 16 ) ( 897 -480 16 ) ( 896 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
 ( 896 -480 16 ) ( 896 -480 17 ) ( 896 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 396 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 150
+// brush 149
 {
 ( 864 -672 0 ) ( 864 -671 0 ) ( 864 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 816 -688 0 ) ( 816 -688 1 ) ( 817 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1365,7 +1356,7 @@
 ( 896 -656 16 ) ( 897 -656 16 ) ( 896 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 896 -656 16 ) ( 896 -656 17 ) ( 896 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 151
+// brush 150
 {
 ( 960 -672 0 ) ( 960 -671 0 ) ( 960 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 912 -688 0 ) ( 912 -688 1 ) ( 913 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 428 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1374,7 +1365,7 @@
 ( 992 -656 16 ) ( 993 -656 16 ) ( 992 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 992 -656 16 ) ( 992 -656 17 ) ( 992 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 152
+// brush 151
 {
 ( 1056 -672 0 ) ( 1056 -671 0 ) ( 1056 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1008 -688 0 ) ( 1008 -688 1 ) ( 1009 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 332 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1383,7 +1374,7 @@
 ( 1088 -656 16 ) ( 1089 -656 16 ) ( 1088 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1088 -656 16 ) ( 1088 -656 17 ) ( 1088 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 153
+// brush 152
 {
 ( 1152 -672 0 ) ( 1152 -671 0 ) ( 1152 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1104 -688 0 ) ( 1104 -688 1 ) ( 1105 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 236 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1392,7 +1383,7 @@
 ( 1184 -656 16 ) ( 1185 -656 16 ) ( 1184 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1184 -656 16 ) ( 1184 -656 17 ) ( 1184 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 154
+// brush 153
 {
 ( 1248 -672 0 ) ( 1248 -671 0 ) ( 1248 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1200 -688 0 ) ( 1200 -688 1 ) ( 1201 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1401,7 +1392,7 @@
 ( 1280 -656 16 ) ( 1281 -656 16 ) ( 1280 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1280 -656 16 ) ( 1280 -656 17 ) ( 1280 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 155
+// brush 154
 {
 ( 1344 -672 0 ) ( 1344 -671 0 ) ( 1344 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1296 -688 0 ) ( 1296 -688 1 ) ( 1297 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 44 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1410,7 +1401,7 @@
 ( 1376 -656 16 ) ( 1377 -656 16 ) ( 1376 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1376 -656 16 ) ( 1376 -656 17 ) ( 1376 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 252 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 156
+// brush 155
 {
 ( 1440 -672 0 ) ( 1440 -671 0 ) ( 1440 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1392 -688 0 ) ( 1392 -688 1 ) ( 1393 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -52 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1419,7 +1410,7 @@
 ( 1472 -656 16 ) ( 1473 -656 16 ) ( 1472 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1472 -656 16 ) ( 1472 -656 17 ) ( 1472 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 252 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 157
+// brush 156
 {
 ( 1536 -672 0 ) ( 1536 -671 0 ) ( 1536 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1488 -688 0 ) ( 1488 -688 1 ) ( 1489 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1428,7 +1419,7 @@
 ( 1568 -656 16 ) ( 1569 -656 16 ) ( 1568 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1568 -656 16 ) ( 1568 -656 17 ) ( 1568 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 252 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 158
+// brush 157
 {
 ( 1616 -672 0 ) ( 1616 -671 0 ) ( 1616 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1568 -688 0 ) ( 1568 -688 1 ) ( 1569 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1437,7 +1428,7 @@
 ( 1648 -656 16 ) ( 1649 -656 16 ) ( 1648 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1648 -656 16 ) ( 1648 -656 17 ) ( 1648 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 352 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 159
+// brush 158
 {
 ( 592 -672 0 ) ( 592 -671 0 ) ( 592 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 544 -688 0 ) ( 544 -688 1 ) ( 545 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 284 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1446,7 +1437,7 @@
 ( 624 -656 16 ) ( 625 -656 16 ) ( 624 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 624 -656 16 ) ( 624 -656 17 ) ( 624 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 160
+// brush 159
 {
 ( 688 -672 0 ) ( 688 -671 0 ) ( 688 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 640 -688 0 ) ( 640 -688 1 ) ( 641 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 188 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1455,7 +1446,7 @@
 ( 720 -656 16 ) ( 721 -656 16 ) ( 720 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 720 -656 16 ) ( 720 -656 17 ) ( 720 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 161
+// brush 160
 {
 ( 784 -672 0 ) ( 784 -671 0 ) ( 784 -672 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 460 ] [ 0 0 -1 -240 ] 0 1 1
 ( 736 -688 0 ) ( 736 -688 1 ) ( 737 -688 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 92 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1464,7 +1455,7 @@
 ( 816 -656 16 ) ( 817 -656 16 ) ( 816 -656 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 816 -656 16 ) ( 816 -656 17 ) ( 816 -655 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 60 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 162
+// brush 161
 {
 ( 96 96 16 ) ( 96 97 16 ) ( 96 96 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( -272 -704 16 ) ( -272 -704 17 ) ( -271 -704 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 2 2
@@ -1473,7 +1464,7 @@
 ( -272 -480 16 ) ( -271 -480 16 ) ( -272 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -436 ] [ 0 0 -1 -240 ] 0 1 1
 ( 592 96 16 ) ( 592 96 17 ) ( 592 97 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 163
+// brush 162
 {
 ( 592 -496 0 ) ( 592 -495 0 ) ( 592 -496 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 544 -512 0 ) ( 544 -512 1 ) ( 545 -512 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 284 ] [ 0 0 -1 -240 ] 0 1 1
@@ -1482,7 +1473,7 @@
 ( 624 -480 16 ) ( 625 -480 16 ) ( 624 -480 17 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 284 ] [ 0 0 -1 -240 ] 0 1 1
 ( 624 -480 16 ) ( 624 -480 17 ) ( 624 -479 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -116 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 164
+// brush 163
 {
 ( 952 -528 104 ) ( 952 -527 104 ) ( 952 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 944 -520 104 ) ( 944 -520 105 ) ( 945 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 108 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1491,7 +1482,7 @@
 ( 960 -472 120 ) ( 961 -472 120 ) ( 960 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1000 -480 120 ) ( 1000 -480 121 ) ( 1000 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 165
+// brush 164
 {
 ( 952 -472 112 ) ( 944 -464 136 ) ( 944 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -432.8 ] 0 1 1
 ( 1000 -520 112 ) ( 952 -520 112 ) ( 944 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 108 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1500,7 +1491,7 @@
 ( 1000 -472 112 ) ( 1008 -464 136 ) ( 944 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -228 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1000 -472 112 ) ( 1000 -520 112 ) ( 1008 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 152.79999 ] 358.49048 1 1
 }
-// brush 166
+// brush 165
 {
 ( 936 -528 136 ) ( 936 -527 136 ) ( 936 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 944 -536 136 ) ( 944 -536 137 ) ( 945 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 108 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1509,7 +1500,7 @@
 ( 960 -456 152 ) ( 961 -456 152 ) ( 960 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1016 -480 152 ) ( 1016 -480 153 ) ( 1016 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 167
+// brush 166
 {
 ( 856 -528 104 ) ( 856 -527 104 ) ( 856 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 848 -520 104 ) ( 848 -520 105 ) ( 849 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1518,7 +1509,7 @@
 ( 864 -472 120 ) ( 865 -472 120 ) ( 864 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -132 ] [ 0 0 -1 -136 ] 0 1 1
 ( 904 -480 120 ) ( 904 -480 121 ) ( 904 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 168
+// brush 167
 {
 ( 856 -472 112 ) ( 848 -464 136 ) ( 848 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -404 ] 0 1 1
 ( 904 -520 112 ) ( 856 -520 112 ) ( 848 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 12 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1527,7 +1518,7 @@
 ( 904 -472 112 ) ( 912 -464 136 ) ( 848 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -132 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 904 -472 112 ) ( 904 -520 112 ) ( 912 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 124 ] 358.49048 1 1
 }
-// brush 169
+// brush 168
 {
 ( 840 -528 136 ) ( 840 -527 136 ) ( 840 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 848 -536 136 ) ( 848 -536 137 ) ( 849 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1536,7 +1527,7 @@
 ( 864 -456 152 ) ( 865 -456 152 ) ( 864 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -132 ] [ 0 0 -1 -104 ] 0 1 1
 ( 920 -480 152 ) ( 920 -480 153 ) ( 920 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 170
+// brush 169
 {
 ( 1048 -528 104 ) ( 1048 -527 104 ) ( 1048 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1040 -520 104 ) ( 1040 -520 105 ) ( 1041 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 204 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1545,7 +1536,7 @@
 ( 1056 -472 120 ) ( 1057 -472 120 ) ( 1056 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -324 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1096 -480 120 ) ( 1096 -480 121 ) ( 1096 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 171
+// brush 170
 {
 ( 1048 -472 112 ) ( 1040 -464 136 ) ( 1040 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -461.6 ] 0 1 1
 ( 1096 -520 112 ) ( 1048 -520 112 ) ( 1040 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 204 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1554,7 +1545,7 @@
 ( 1096 -472 112 ) ( 1104 -464 136 ) ( 1040 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -324 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1096 -472 112 ) ( 1096 -520 112 ) ( 1104 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 181.6 ] 358.49048 1 1
 }
-// brush 172
+// brush 171
 {
 ( 1032 -528 136 ) ( 1032 -527 136 ) ( 1032 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1040 -536 136 ) ( 1040 -536 137 ) ( 1041 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 204 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1563,7 +1554,7 @@
 ( 1056 -456 152 ) ( 1057 -456 152 ) ( 1056 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -324 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1112 -480 152 ) ( 1112 -480 153 ) ( 1112 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 173
+// brush 172
 {
 ( 1144 -528 104 ) ( 1144 -527 104 ) ( 1144 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1136 -520 104 ) ( 1136 -520 105 ) ( 1137 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 300 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1572,7 +1563,7 @@
 ( 1152 -472 120 ) ( 1153 -472 120 ) ( 1152 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -420 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1192 -480 120 ) ( 1192 -480 121 ) ( 1192 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 174
+// brush 173
 {
 ( 1144 -472 112 ) ( 1136 -464 136 ) ( 1136 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -490.4 ] 0 1 1
 ( 1192 -520 112 ) ( 1144 -520 112 ) ( 1136 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 300 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1581,7 +1572,7 @@
 ( 1192 -472 112 ) ( 1200 -464 136 ) ( 1136 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -420 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1192 -472 112 ) ( 1192 -520 112 ) ( 1200 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 210.4 ] 358.49048 1 1
 }
-// brush 175
+// brush 174
 {
 ( 1128 -528 136 ) ( 1128 -527 136 ) ( 1128 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1136 -536 136 ) ( 1136 -536 137 ) ( 1137 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 300 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1590,7 +1581,7 @@
 ( 1152 -456 152 ) ( 1153 -456 152 ) ( 1152 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -420 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1208 -480 152 ) ( 1208 -480 153 ) ( 1208 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 176
+// brush 175
 {
 ( 1240 -528 104 ) ( 1240 -527 104 ) ( 1240 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1232 -520 104 ) ( 1232 -520 105 ) ( 1233 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 396 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1599,7 +1590,7 @@
 ( 1248 -472 120 ) ( 1249 -472 120 ) ( 1248 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -4 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1288 -480 120 ) ( 1288 -480 121 ) ( 1288 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 177
+// brush 176
 {
 ( 1240 -472 112 ) ( 1232 -464 136 ) ( 1232 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -7.200012 ] 0 1 1
 ( 1288 -520 112 ) ( 1240 -520 112 ) ( 1232 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 396 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1608,7 +1599,7 @@
 ( 1288 -472 112 ) ( 1296 -464 136 ) ( 1232 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -4 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1288 -472 112 ) ( 1288 -520 112 ) ( 1296 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 239.20001 ] 358.49048 1 1
 }
-// brush 178
+// brush 177
 {
 ( 1224 -528 136 ) ( 1224 -527 136 ) ( 1224 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1232 -536 136 ) ( 1232 -536 137 ) ( 1233 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 396 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1617,7 +1608,7 @@
 ( 1248 -456 152 ) ( 1249 -456 152 ) ( 1248 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -4 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1304 -480 152 ) ( 1304 -480 153 ) ( 1304 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 179
+// brush 178
 {
 ( 1336 -528 104 ) ( 1336 -527 104 ) ( 1336 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1328 -520 104 ) ( 1328 -520 105 ) ( 1329 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 492 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1626,7 +1617,7 @@
 ( 1344 -472 120 ) ( 1345 -472 120 ) ( 1344 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -100 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1384 -480 120 ) ( 1384 -480 121 ) ( 1384 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 180
+// brush 179
 {
 ( 1336 -472 112 ) ( 1328 -464 136 ) ( 1328 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -36 ] 0 1 1
 ( 1384 -520 112 ) ( 1336 -520 112 ) ( 1328 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 492 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1635,7 +1626,7 @@
 ( 1384 -472 112 ) ( 1392 -464 136 ) ( 1328 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -100 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1384 -472 112 ) ( 1384 -520 112 ) ( 1392 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 268 ] 358.49048 1 1
 }
-// brush 181
+// brush 180
 {
 ( 1320 -528 136 ) ( 1320 -527 136 ) ( 1320 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1328 -536 136 ) ( 1328 -536 137 ) ( 1329 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 492 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1644,7 +1635,7 @@
 ( 1344 -456 152 ) ( 1345 -456 152 ) ( 1344 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -100 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1400 -480 152 ) ( 1400 -480 153 ) ( 1400 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 182
+// brush 181
 {
 ( 1432 -528 104 ) ( 1432 -527 104 ) ( 1432 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1424 -520 104 ) ( 1424 -520 105 ) ( 1425 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 76 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1653,7 +1644,7 @@
 ( 1440 -472 120 ) ( 1441 -472 120 ) ( 1440 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -196 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1480 -480 120 ) ( 1480 -480 121 ) ( 1480 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 183
+// brush 182
 {
 ( 1432 -472 112 ) ( 1424 -464 136 ) ( 1424 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -64.79999 ] 0 1 1
 ( 1480 -520 112 ) ( 1432 -520 112 ) ( 1424 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 76 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1662,7 +1653,7 @@
 ( 1480 -472 112 ) ( 1488 -464 136 ) ( 1424 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -196 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1480 -472 112 ) ( 1480 -520 112 ) ( 1488 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 296.8 ] 358.49048 1 1
 }
-// brush 184
+// brush 183
 {
 ( 1416 -528 136 ) ( 1416 -527 136 ) ( 1416 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1424 -536 136 ) ( 1424 -536 137 ) ( 1425 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 76 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1671,7 +1662,7 @@
 ( 1440 -456 152 ) ( 1441 -456 152 ) ( 1440 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -196 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1496 -480 152 ) ( 1496 -480 153 ) ( 1496 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 185
+// brush 184
 {
 ( 1528 -528 104 ) ( 1528 -527 104 ) ( 1528 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1520 -520 104 ) ( 1520 -520 105 ) ( 1521 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 172 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1680,7 +1671,7 @@
 ( 1536 -472 120 ) ( 1537 -472 120 ) ( 1536 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -292 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1576 -480 120 ) ( 1576 -480 121 ) ( 1576 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 186
+// brush 185
 {
 ( 1528 -472 112 ) ( 1520 -464 136 ) ( 1520 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -93.600006 ] 0 1 1
 ( 1576 -520 112 ) ( 1528 -520 112 ) ( 1520 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 172 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1689,7 +1680,7 @@
 ( 1576 -472 112 ) ( 1584 -464 136 ) ( 1520 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -292 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1576 -472 112 ) ( 1576 -520 112 ) ( 1584 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 325.59998 ] 358.49048 1 1
 }
-// brush 187
+// brush 186
 {
 ( 1512 -528 136 ) ( 1512 -527 136 ) ( 1512 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1520 -536 136 ) ( 1520 -536 137 ) ( 1521 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 172 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1698,7 +1689,7 @@
 ( 1536 -456 152 ) ( 1537 -456 152 ) ( 1536 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -292 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1592 -480 152 ) ( 1592 -480 153 ) ( 1592 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 188
+// brush 187
 {
 ( 1608 -528 104 ) ( 1608 -527 104 ) ( 1608 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1600 -520 104 ) ( 1600 -520 105 ) ( 1601 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1707,7 +1698,7 @@
 ( 1616 -472 120 ) ( 1617 -472 120 ) ( 1616 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -372 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1656 -480 120 ) ( 1656 -480 121 ) ( 1656 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 189
+// brush 188
 {
 ( 1608 -472 112 ) ( 1600 -464 136 ) ( 1600 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -117.600006 ] 0 1 1
 ( 1656 -520 112 ) ( 1608 -520 112 ) ( 1600 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 252 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -1716,16 +1707,16 @@
 ( 1656 -472 112 ) ( 1664 -464 136 ) ( 1600 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -372 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 1656 -472 112 ) ( 1656 -520 112 ) ( 1664 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 349.59998 ] 358.49048 1 1
 }
-// brush 190
+// brush 189
 {
 ( 1592 -528 136 ) ( 1592 -527 136 ) ( 1592 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1600 -536 136 ) ( 1600 -536 137 ) ( 1601 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1600 -528 136 ) ( 1601 -528 136 ) ( 1600 -527 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 4.930380657631324e-32 -2.220446049250313e-16 -372 ] [ 0 -1 -2.220446049250313e-16 -192 ] 0 1 1
 ( 1616 -480 144 ) ( 1616 -479 144 ) ( 1617 -480 144 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -1 0 -2.220446049250313e-16 344 ] 0 1 1
 ( 1616 -456 152 ) ( 1617 -456 152 ) ( 1616 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -372 ] [ 0 0 -1 -104 ] 0 1 1
-( 1672 -480 152 ) ( 1672 -480 153 ) ( 1672 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
+( 1648 -480 152 ) ( 1648 -480 153 ) ( 1648 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 191
+// brush 190
 {
 ( 1608 -704 104 ) ( 1608 -703 104 ) ( 1608 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1600 -696 104 ) ( 1600 -696 105 ) ( 1601 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1734,7 +1725,7 @@
 ( 1616 -648 120 ) ( 1617 -648 120 ) ( 1616 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -372 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1656 -656 120 ) ( 1656 -656 121 ) ( 1656 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 192
+// brush 191
 {
 ( 1608 -648 112 ) ( 1600 -640 136 ) ( 1600 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -117.600006 ] 0 1 1
 ( 1656 -696 112 ) ( 1608 -696 112 ) ( 1600 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 252 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1743,16 +1734,16 @@
 ( 1656 -648 112 ) ( 1664 -640 136 ) ( 1600 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -372 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1656 -648 112 ) ( 1656 -696 112 ) ( 1664 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 349.59998 ] 358.49048 1 1
 }
-// brush 193
+// brush 192
 {
 ( 1592 -704 136 ) ( 1592 -703 136 ) ( 1592 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
-( 1600 -712 136 ) ( 1600 -712 137 ) ( 1601 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -104 ] 0 1 1
+( 1600 -688 136 ) ( 1600 -688 137 ) ( 1601 -688 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1600 -704 136 ) ( 1601 -704 136 ) ( 1600 -703 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 4.930380657631324e-32 -2.220446049250313e-16 -372 ] [ 0 -1 -2.220446049250313e-16 -368 ] 0 1 1
 ( 1616 -656 144 ) ( 1616 -655 144 ) ( 1617 -656 144 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -1 0 -2.220446049250313e-16 344 ] 0 1 1
 ( 1616 -632 152 ) ( 1617 -632 152 ) ( 1616 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -372 ] [ 0 0 -1 -104 ] 0 1 1
-( 1672 -656 152 ) ( 1672 -656 153 ) ( 1672 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
+( 1648 -656 152 ) ( 1648 -656 153 ) ( 1648 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 194
+// brush 193
 {
 ( 1528 -704 104 ) ( 1528 -703 104 ) ( 1528 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1520 -696 104 ) ( 1520 -696 105 ) ( 1521 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 172 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1761,7 +1752,7 @@
 ( 1536 -648 120 ) ( 1537 -648 120 ) ( 1536 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -292 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1576 -656 120 ) ( 1576 -656 121 ) ( 1576 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 195
+// brush 194
 {
 ( 1528 -648 112 ) ( 1520 -640 136 ) ( 1520 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -93.600006 ] 0 1 1
 ( 1576 -696 112 ) ( 1528 -696 112 ) ( 1520 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 172 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1770,7 +1761,7 @@
 ( 1576 -648 112 ) ( 1584 -640 136 ) ( 1520 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -292 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1576 -648 112 ) ( 1576 -696 112 ) ( 1584 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 325.59998 ] 358.49048 1 1
 }
-// brush 196
+// brush 195
 {
 ( 1512 -704 136 ) ( 1512 -703 136 ) ( 1512 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1520 -712 136 ) ( 1520 -712 137 ) ( 1521 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 172 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1779,7 +1770,7 @@
 ( 1536 -632 152 ) ( 1537 -632 152 ) ( 1536 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -292 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1592 -656 152 ) ( 1592 -656 153 ) ( 1592 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 197
+// brush 196
 {
 ( 1432 -704 104 ) ( 1432 -703 104 ) ( 1432 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1424 -696 104 ) ( 1424 -696 105 ) ( 1425 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 76 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1788,7 +1779,7 @@
 ( 1440 -648 120 ) ( 1441 -648 120 ) ( 1440 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -196 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1480 -656 120 ) ( 1480 -656 121 ) ( 1480 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 198
+// brush 197
 {
 ( 1432 -648 112 ) ( 1424 -640 136 ) ( 1424 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -64.79999 ] 0 1 1
 ( 1480 -696 112 ) ( 1432 -696 112 ) ( 1424 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 76 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1797,7 +1788,7 @@
 ( 1480 -648 112 ) ( 1488 -640 136 ) ( 1424 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -196 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1480 -648 112 ) ( 1480 -696 112 ) ( 1488 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 296.8 ] 358.49048 1 1
 }
-// brush 199
+// brush 198
 {
 ( 1416 -704 136 ) ( 1416 -703 136 ) ( 1416 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1424 -712 136 ) ( 1424 -712 137 ) ( 1425 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 76 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1806,7 +1797,7 @@
 ( 1440 -632 152 ) ( 1441 -632 152 ) ( 1440 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -196 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1496 -656 152 ) ( 1496 -656 153 ) ( 1496 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 200
+// brush 199
 {
 ( 1336 -704 104 ) ( 1336 -703 104 ) ( 1336 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1328 -696 104 ) ( 1328 -696 105 ) ( 1329 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 492 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1815,7 +1806,7 @@
 ( 1344 -648 120 ) ( 1345 -648 120 ) ( 1344 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -100 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1384 -656 120 ) ( 1384 -656 121 ) ( 1384 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 201
+// brush 200
 {
 ( 1336 -648 112 ) ( 1328 -640 136 ) ( 1328 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -36 ] 0 1 1
 ( 1384 -696 112 ) ( 1336 -696 112 ) ( 1328 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 492 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1824,7 +1815,7 @@
 ( 1384 -648 112 ) ( 1392 -640 136 ) ( 1328 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -100 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1384 -648 112 ) ( 1384 -696 112 ) ( 1392 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 268 ] 358.49048 1 1
 }
-// brush 202
+// brush 201
 {
 ( 1320 -704 136 ) ( 1320 -703 136 ) ( 1320 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1328 -712 136 ) ( 1328 -712 137 ) ( 1329 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 492 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1833,7 +1824,7 @@
 ( 1344 -632 152 ) ( 1345 -632 152 ) ( 1344 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -100 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1400 -656 152 ) ( 1400 -656 153 ) ( 1400 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 203
+// brush 202
 {
 ( 1240 -704 104 ) ( 1240 -703 104 ) ( 1240 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1232 -696 104 ) ( 1232 -696 105 ) ( 1233 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 396 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1842,7 +1833,7 @@
 ( 1248 -648 120 ) ( 1249 -648 120 ) ( 1248 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -4 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1288 -656 120 ) ( 1288 -656 121 ) ( 1288 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 204
+// brush 203
 {
 ( 1240 -648 112 ) ( 1232 -640 136 ) ( 1232 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -7.200012 ] 0 1 1
 ( 1288 -696 112 ) ( 1240 -696 112 ) ( 1232 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 396 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1851,7 +1842,7 @@
 ( 1288 -648 112 ) ( 1296 -640 136 ) ( 1232 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -4 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1288 -648 112 ) ( 1288 -696 112 ) ( 1296 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 239.20001 ] 358.49048 1 1
 }
-// brush 205
+// brush 204
 {
 ( 1224 -704 136 ) ( 1224 -703 136 ) ( 1224 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1232 -712 136 ) ( 1232 -712 137 ) ( 1233 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 396 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1860,7 +1851,7 @@
 ( 1248 -632 152 ) ( 1249 -632 152 ) ( 1248 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -4 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1304 -656 152 ) ( 1304 -656 153 ) ( 1304 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 206
+// brush 205
 {
 ( 1144 -704 104 ) ( 1144 -703 104 ) ( 1144 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1136 -696 104 ) ( 1136 -696 105 ) ( 1137 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 300 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1869,7 +1860,7 @@
 ( 1152 -648 120 ) ( 1153 -648 120 ) ( 1152 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -420 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1192 -656 120 ) ( 1192 -656 121 ) ( 1192 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 207
+// brush 206
 {
 ( 1144 -648 112 ) ( 1136 -640 136 ) ( 1136 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -490.4 ] 0 1 1
 ( 1192 -696 112 ) ( 1144 -696 112 ) ( 1136 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 300 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1878,7 +1869,7 @@
 ( 1192 -648 112 ) ( 1200 -640 136 ) ( 1136 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -420 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1192 -648 112 ) ( 1192 -696 112 ) ( 1200 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 210.4 ] 358.49048 1 1
 }
-// brush 208
+// brush 207
 {
 ( 1128 -704 136 ) ( 1128 -703 136 ) ( 1128 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1136 -712 136 ) ( 1136 -712 137 ) ( 1137 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 300 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1887,7 +1878,7 @@
 ( 1152 -632 152 ) ( 1153 -632 152 ) ( 1152 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -420 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1208 -656 152 ) ( 1208 -656 153 ) ( 1208 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 209
+// brush 208
 {
 ( 1048 -704 104 ) ( 1048 -703 104 ) ( 1048 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1040 -696 104 ) ( 1040 -696 105 ) ( 1041 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 204 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1896,7 +1887,7 @@
 ( 1056 -648 120 ) ( 1057 -648 120 ) ( 1056 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -324 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1096 -656 120 ) ( 1096 -656 121 ) ( 1096 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 210
+// brush 209
 {
 ( 1048 -648 112 ) ( 1040 -640 136 ) ( 1040 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -461.6 ] 0 1 1
 ( 1096 -696 112 ) ( 1048 -696 112 ) ( 1040 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 204 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1905,7 +1896,7 @@
 ( 1096 -648 112 ) ( 1104 -640 136 ) ( 1040 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -324 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1096 -648 112 ) ( 1096 -696 112 ) ( 1104 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 181.6 ] 358.49048 1 1
 }
-// brush 211
+// brush 210
 {
 ( 1032 -704 136 ) ( 1032 -703 136 ) ( 1032 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1040 -712 136 ) ( 1040 -712 137 ) ( 1041 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 204 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1914,7 +1905,7 @@
 ( 1056 -632 152 ) ( 1057 -632 152 ) ( 1056 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -324 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1112 -656 152 ) ( 1112 -656 153 ) ( 1112 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 212
+// brush 211
 {
 ( 952 -704 104 ) ( 952 -703 104 ) ( 952 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 944 -696 104 ) ( 944 -696 105 ) ( 945 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 108 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1923,7 +1914,7 @@
 ( 960 -648 120 ) ( 961 -648 120 ) ( 960 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -136 ] 0 1 1
 ( 1000 -656 120 ) ( 1000 -656 121 ) ( 1000 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 213
+// brush 212
 {
 ( 952 -648 112 ) ( 944 -640 136 ) ( 944 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -432.8 ] 0 1 1
 ( 1000 -696 112 ) ( 952 -696 112 ) ( 944 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 108 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1932,7 +1923,7 @@
 ( 1000 -648 112 ) ( 1008 -640 136 ) ( 944 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -228 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 1000 -648 112 ) ( 1000 -696 112 ) ( 1008 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 152.79999 ] 358.49048 1 1
 }
-// brush 214
+// brush 213
 {
 ( 936 -704 136 ) ( 936 -703 136 ) ( 936 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 944 -712 136 ) ( 944 -712 137 ) ( 945 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 108 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1941,7 +1932,7 @@
 ( 960 -632 152 ) ( 961 -632 152 ) ( 960 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -228 ] [ 0 0 -1 -104 ] 0 1 1
 ( 1016 -656 152 ) ( 1016 -656 153 ) ( 1016 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 215
+// brush 214
 {
 ( 856 -704 104 ) ( 856 -703 104 ) ( 856 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 848 -696 104 ) ( 848 -696 105 ) ( 849 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1950,7 +1941,7 @@
 ( 864 -648 120 ) ( 865 -648 120 ) ( 864 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -132 ] [ 0 0 -1 -136 ] 0 1 1
 ( 904 -656 120 ) ( 904 -656 121 ) ( 904 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 216
+// brush 215
 {
 ( 856 -648 112 ) ( 848 -640 136 ) ( 848 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -404 ] 0 1 1
 ( 904 -696 112 ) ( 856 -696 112 ) ( 848 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 12 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1959,7 +1950,7 @@
 ( 904 -648 112 ) ( 912 -640 136 ) ( 848 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -132 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 904 -648 112 ) ( 904 -696 112 ) ( 912 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 124 ] 358.49048 1 1
 }
-// brush 217
+// brush 216
 {
 ( 840 -704 136 ) ( 840 -703 136 ) ( 840 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 848 -712 136 ) ( 848 -712 137 ) ( 849 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 12 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1968,7 +1959,7 @@
 ( 864 -632 152 ) ( 865 -632 152 ) ( 864 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -132 ] [ 0 0 -1 -104 ] 0 1 1
 ( 920 -656 152 ) ( 920 -656 153 ) ( 920 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 218
+// brush 217
 {
 ( 776 -704 104 ) ( 776 -703 104 ) ( 776 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 768 -696 104 ) ( 768 -696 105 ) ( 769 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -68 ] [ 0 0 -1 -136 ] 0 1 1
@@ -1977,7 +1968,7 @@
 ( 784 -648 120 ) ( 785 -648 120 ) ( 784 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -52 ] [ 0 0 -1 -136 ] 0 1 1
 ( 824 -656 120 ) ( 824 -656 121 ) ( 824 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 219
+// brush 218
 {
 ( 776 -648 112 ) ( 768 -640 136 ) ( 768 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -380 ] 0 1 1
 ( 824 -696 112 ) ( 776 -696 112 ) ( 768 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 -68 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -1986,7 +1977,7 @@
 ( 824 -648 112 ) ( 832 -640 136 ) ( 768 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 -52 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 824 -648 112 ) ( 824 -696 112 ) ( 832 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 100 ] 358.49048 1 1
 }
-// brush 220
+// brush 219
 {
 ( 760 -704 136 ) ( 760 -703 136 ) ( 760 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 768 -712 136 ) ( 768 -712 137 ) ( 769 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -68 ] [ 0 0 -1 -104 ] 0 1 1
@@ -1995,7 +1986,7 @@
 ( 784 -632 152 ) ( 785 -632 152 ) ( 784 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -52 ] [ 0 0 -1 -104 ] 0 1 1
 ( 840 -656 152 ) ( 840 -656 153 ) ( 840 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 221
+// brush 220
 {
 ( 680 -704 104 ) ( 680 -703 104 ) ( 680 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 672 -696 104 ) ( 672 -696 105 ) ( 673 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -164 ] [ 0 0 -1 -136 ] 0 1 1
@@ -2004,7 +1995,7 @@
 ( 688 -648 120 ) ( 689 -648 120 ) ( 688 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 44 ] [ 0 0 -1 -136 ] 0 1 1
 ( 728 -656 120 ) ( 728 -656 121 ) ( 728 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 222
+// brush 221
 {
 ( 680 -648 112 ) ( 672 -640 136 ) ( 672 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -351.2 ] 0 1 1
 ( 728 -696 112 ) ( 680 -696 112 ) ( 672 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 -164 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -2013,7 +2004,7 @@
 ( 728 -648 112 ) ( 736 -640 136 ) ( 672 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 44 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 728 -648 112 ) ( 728 -696 112 ) ( 736 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 71.20001 ] 358.49048 1 1
 }
-// brush 223
+// brush 222
 {
 ( 664 -704 136 ) ( 664 -703 136 ) ( 664 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 672 -712 136 ) ( 672 -712 137 ) ( 673 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -164 ] [ 0 0 -1 -104 ] 0 1 1
@@ -2022,7 +2013,7 @@
 ( 688 -632 152 ) ( 689 -632 152 ) ( 688 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 44 ] [ 0 0 -1 -104 ] 0 1 1
 ( 744 -656 152 ) ( 744 -656 153 ) ( 744 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 224
+// brush 223
 {
 ( 584 -704 104 ) ( 584 -703 104 ) ( 584 -704 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 ( 576 -696 104 ) ( 576 -696 105 ) ( 577 -696 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -260 ] [ 0 0 -1 -136 ] 0 1 1
@@ -2031,7 +2022,7 @@
 ( 592 -648 120 ) ( 593 -648 120 ) ( 592 -648 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -136 ] 0 1 1
 ( 632 -656 120 ) ( 632 -656 121 ) ( 632 -655 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 225
+// brush 224
 {
 ( 584 -648 112 ) ( 576 -640 136 ) ( 576 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0.30000000000001215 0 -0.899999999999996 -322.4 ] 0 1 1
 ( 632 -696 112 ) ( 584 -696 112 ) ( 576 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 -260 ] [ 0 0.30000000000001215 -0.899999999999996 61.600006 ] 0 1 1
@@ -2040,7 +2031,7 @@
 ( 632 -648 112 ) ( 640 -640 136 ) ( 576 -640 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 140 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -341.6 ] 359.9766 1 1
 ( 632 -648 112 ) ( 632 -696 112 ) ( 640 -704 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ -0.30000000000001215 0 -0.899999999999996 42.399994 ] 358.49048 1 1
 }
-// brush 226
+// brush 225
 {
 ( 568 -704 136 ) ( 568 -703 136 ) ( 568 -704 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 ( 576 -712 136 ) ( 576 -712 137 ) ( 577 -712 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -260 ] [ 0 0 -1 -104 ] 0 1 1
@@ -2049,7 +2040,7 @@
 ( 592 -632 152 ) ( 593 -632 152 ) ( 592 -632 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -104 ] 0 1 1
 ( 648 -656 152 ) ( 648 -656 153 ) ( 648 -655 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 364 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 227
+// brush 226
 {
 ( 584 -528 104 ) ( 584 -527 104 ) ( 584 -528 105 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 ( 576 -520 104 ) ( 576 -520 105 ) ( 577 -520 104 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -260 ] [ 0 0 -1 -136 ] 0 1 1
@@ -2058,7 +2049,7 @@
 ( 592 -472 120 ) ( 593 -472 120 ) ( 592 -472 121 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -136 ] 0 1 1
 ( 632 -480 120 ) ( 632 -480 121 ) ( 632 -479 120 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -136 ] 0 1 1
 }
-// brush 228
+// brush 227
 {
 ( 584 -472 112 ) ( 576 -464 136 ) ( 576 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0.30000000000001215 0 -0.899999999999996 -322.4 ] 0 1 1
 ( 632 -520 112 ) ( 584 -520 112 ) ( 576 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.1065000811461113e-16 7.021666937153705e-17 -260 ] [ 0 0.30000000000001215 -0.899999999999996 8.799988 ] 0 1 1
@@ -2067,7 +2058,7 @@
 ( 632 -472 112 ) ( 640 -464 136 ) ( 576 -464 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.2307459698889254e-16 -6.938893903907228e-17 140 ] [ -1.3877787807814457e-17 -0.3000000134110407 -0.899999995529653 -288.80002 ] 359.9766 1 1
 ( 632 -472 112 ) ( 632 -520 112 ) ( 640 -528 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ -0.30000000000001215 0 -0.899999999999996 42.399994 ] 358.49048 1 1
 }
-// brush 229
+// brush 228
 {
 ( 568 -528 136 ) ( 568 -527 136 ) ( 568 -528 137 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 ( 576 -536 136 ) ( 576 -536 137 ) ( 577 -536 136 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 -260 ] [ 0 0 -1 -104 ] 0 1 1
@@ -2076,7 +2067,7 @@
 ( 592 -456 152 ) ( 593 -456 152 ) ( 592 -456 153 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 140 ] [ 0 0 -1 -104 ] 0 1 1
 ( 648 -480 152 ) ( 648 -480 153 ) ( 648 -479 152 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 188 ] [ 0 0 -1 -104 ] 0 1 1
 }
-// brush 230
+// brush 229
 {
 ( 1456 80 16 ) ( 1456 81 16 ) ( 1456 80 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 252 ] [ 0 0 -1 -240 ] 0 1 1
@@ -2085,7 +2076,7 @@
 ( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -468 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1520 80 16 ) ( 1520 80 17 ) ( 1520 81 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 2.7755575615628914e-16 -1 0 332 ] [ 0 0 -1 -240 ] 0 1 1
 }
-// brush 231
+// brush 230
 {
 ( 1520 -224 -128 ) ( 1520 -223 -128 ) ( 1520 -224 -127 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 ( 1520 -224 -128 ) ( 1520 -224 -127 ) ( 1521 -224 -128 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -468 ] [ 0 0 -1 -240 ] 0 1 1
@@ -2094,7 +2085,7 @@
 ( 1600 -208 -112 ) ( 1601 -208 -112 ) ( 1600 -208 -111 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 2.220446049250313e-16 0 -468 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1600 -208 -112 ) ( 1600 -208 -111 ) ( 1600 -207 -112 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
 }
-// brush 232
+// brush 231
 {
 ( 1456 96 16 ) ( 1456 97 16 ) ( 1456 96 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 ( -272 704 16 ) ( -272 704 17 ) ( -271 704 16 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -1 2.220446049250313e-16 0 156 ] [ 0 0 -1 -240 ] 0 1 1
@@ -2103,7 +2094,7 @@
 ( -272 720 16 ) ( -271 720 16 ) ( -272 720 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 1648 96 16 ) ( 1648 96 17 ) ( 1648 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 }
-// brush 233
+// brush 232
 {
 ( 480 -464 96 ) ( 480 -464 97 ) ( 480 -465 96 ) lights/k_3000 [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 0 ] 270 0.5 0.5
 ( 504 -472 104 ) ( 504 -472 105 ) ( 505 -472 104 ) lights/k_3000 [ 1 -1.8369701987210297e-16 -6.123233995736769e-17 0 ] [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] 270 0.5 0.5
@@ -2112,7 +2103,7 @@
 ( 488 -464 96 ) ( 489 -464 96 ) ( 488 -464 97 ) lights/k_3000 [ -1 1.8369701987210297e-16 6.123233995736769e-17 0 ] [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] 90 0.5 0.5
 ( 512 -472 104 ) ( 512 -473 104 ) ( 512 -472 105 ) lights/k_3000 [ 6.123233995736766e-17 -6.123233995736766e-17 1 0 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 0 ] 90 0.5 0.5
 }
-// brush 234
+// brush 233
 {
 ( 464 -472 96 ) ( 464 -472 97 ) ( 464 -473 96 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1.6081226496766364e-16 6.123233995736761e-17 -1 160 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 64 ] 270 1 1
 ( 512 -480 104 ) ( 512 -480 105 ) ( 513 -480 104 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 -1.8369701987210297e-16 -6.123233995736769e-17 -144 ] [ -6.123233995736761e-17 2.83276944882399e-16 -1 192 ] 270 1 1
@@ -2121,7 +2112,7 @@
 ( 456 -472 96 ) ( 457 -472 96 ) ( 456 -472 97 ) working/permissive/downpour/Lights/light06 [ 4.3711390001862426e-08 6.123233192771552e-17 -0.999999999999999 -8.000069 ] [ 0.999999999999999 -1.836970225486535e-16 4.3711390001862426e-08 -16.00003 ] 180 1 1
 ( 528 -480 104 ) ( 528 -481 104 ) ( 528 -480 105 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.83276944882399e-16 -6.123233995736771e-17 1 32 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 64 ] 90 1 1
 }
-// brush 235
+// brush 234
 {
 ( 256 -464 96 ) ( 256 -464 97 ) ( 256 -465 96 ) lights/k_3000 [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 0 ] 270 0.5 0.5
 ( 280 -472 104 ) ( 280 -472 105 ) ( 281 -472 104 ) lights/k_3000 [ 1 -1.8369701987210297e-16 -6.123233995736769e-17 0 ] [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] 270 0.5 0.5
@@ -2130,7 +2121,7 @@
 ( 264 -464 96 ) ( 265 -464 96 ) ( 264 -464 97 ) lights/k_3000 [ -1 1.8369701987210297e-16 6.123233995736769e-17 0 ] [ -6.123233995736766e-17 6.123233995736766e-17 -1 0 ] 90 0.5 0.5
 ( 288 -472 104 ) ( 288 -473 104 ) ( 288 -472 105 ) lights/k_3000 [ 6.123233995736766e-17 -6.123233995736766e-17 1 0 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 0 ] 90 0.5 0.5
 }
-// brush 236
+// brush 235
 {
 ( 240 -472 96 ) ( 240 -472 97 ) ( 240 -473 96 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1.6081226496766364e-16 6.123233995736761e-17 -1 160 ] [ 1.8369701987210297e-16 1 6.123233995736767e-17 64 ] 270 1 1
 ( 288 -480 104 ) ( 288 -480 105 ) ( 289 -480 104 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 -1.8369701987210297e-16 -6.123233995736769e-17 80 ] [ -6.123233995736761e-17 2.83276944882399e-16 -1 192 ] 270 1 1
@@ -2161,15 +2152,15 @@
 "classname" "func_detail"
 // brush 0
 {
-( 96 -522.6666666666667 314.6666666666667 ) ( 96 -437.3333333333334 229.33333333333337 ) ( 96 -352 272 ) trim_band_blk [ 4.729597075729478e-16 0.6708203932499374 0.3354101966249687 -0.0038757324 ] [ -8.289508614446796e-17 -0.3354101966249685 0.670820393249937 0.3333435 ] 270 1.078689 1.0062304
+( 96 -522.6666666666667 314.6666666666667 ) ( 96 -437.3333333333334 229.33333333333337 ) ( 96 -352 272 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1072 -437.3333333333334 229.33333333333337 ) ( 1008 -437.3333333333334 229.33333333333337 ) ( 1008 -522.6666666666667 314.6666666666667 ) 64_blood_1 [ 0 -0.5303300858899107 0.5303300858899107 0.027130127 ] [ 1 4.592425496802574e-17 4.592425496802574e-17 0 ] 0 1 1
-( 1040 -437.3333333333334 272 ) ( 912 -394.6666666666667 272 ) ( 1040 -394.6666666666667 272 ) trim_band_blk [ -6.123233995736766e-17 0.75 4.592425496802574e-17 0 ] [ 1 4.592425496802574e-17 4.592425496802574e-17 0 ] 90 1 1
+( 1040 -437.3333333333334 272 ) ( 912 -394.6666666666667 272 ) ( 1040 -394.6666666666667 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 16 ] 0 2 2
 ( 1008 -352 272 ) ( 1008 -437.3333333333334 229.33333333333337 ) ( 1072 -437.3333333333334 229.33333333333337 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 9.93013661298908e-17 -1.9860273225978193e-16 -228 ] [ 0 -0.8944271909999163 -0.4472135954999574 -272.30463 ] 0 1 1
 ( 1648 -352 272 ) ( 1648 -437.3333333333334 229.33333333333337 ) ( 1648 -522.6666666666667 314.6666666666667 ) trim_band_blk [ 4.729597075729478e-16 0.6708203932499374 0.3354101966249687 -0.0038757324 ] [ -8.289508614446796e-17 -0.3354101966249685 0.670820393249937 0.3333435 ] 90 1.078689 1.0062304
 }
 // brush 1
 {
-( 96 -522.6666666666667 154.66666666666669 ) ( 96 -480 144 ) ( 96 -437.3333333333334 229.33333333333337 ) trim_band_blk [ 3.064262538791743e-16 0.3354101966249685 0.6708203932499373 -0.29888248 ] [ -2.81272163180477e-17 -0.670820393249937 0.33541019662496846 0.9999695 ] 270 1.078689 1.0062304
+( 96 -522.6666666666667 154.66666666666669 ) ( 96 -480 144 ) ( 96 -437.3333333333334 229.33333333333337 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 0 1 0 -148 ] [ 0 0 -1 -240 ] 0 1 1
 ( 1040 -480 229.33333333333337 ) ( 1040 -480 186.66666666666669 ) ( 912 -480 186.66666666666669 ) trim_band_blk [ -6.123233995736767e-17 -4.5924254968025755e-17 0.7500000000000001 0 ] [ 1.0000000000000002 4.5924254968025755e-17 4.5924254968025755e-17 0 ] 90 1 1
 ( 1072 -437.3333333333334 229.33333333333337 ) ( 1072 -522.6666666666667 314.6666666666667 ) ( 1008 -522.6666666666667 314.6666666666667 ) 64_blood_3 [ 0 0.5303300858899107 -0.5303300858899107 -0.027130127 ] [ 1 4.592425496802574e-17 4.592425496802574e-17 0 ] 0 1 1
 ( 1008 -437.3333333333334 229.33333333333337 ) ( 1008 -480 144 ) ( 1072 -480 144 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ 1 1.9860273225978196e-16 -9.930136612989068e-17 -228 ] [ 0 -0.4472135954999569 -0.8944271909999164 -469.86502 ] 0 1 1
@@ -2191,7 +2182,7 @@
 {
 ( 96 -352 272 ) ( 96 -266.66666666666663 229.33333333333337 ) ( 96 -181.33333333333326 314.6666666666667 ) trim_band_blk [ -3.908079028333173e-16 -0.6708203932499374 0.3354101966249687 0.18919373 ] [ 4.181918377465275e-17 0.3354101966249685 0.670820393249937 0 ] 90 1.078689 1.0062304
 ( 1072 -352 272 ) ( 1072 -266.66666666666663 229.33333333333337 ) ( 1008 -266.66666666666663 229.33333333333337 ) working/permissive/downpour/City/City_Decor/CRWALL3 [ -0.9999999999999998 9.930136612989088e-17 1.9860273225978183e-16 252 ] [ 0 0.8944271909999159 -0.44721359549995776 -138.33069 ] 0 1 1
-( 1040 -266.66666666666663 272 ) ( 1168 -309.3333333333335 272 ) ( 1040 -309.3333333333335 272 ) trim_band_blk [ 1.5308084989341913e-16 -0.75 4.592425496802574e-17 0 ] [ -1 -1.6838893488276108e-16 4.592425496802574e-17 0 ] 270 1 1
+( 1040 -266.66666666666663 272 ) ( 1168 -309.3333333333335 272 ) ( 1040 -309.3333333333335 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 16 ] 0 2 2
 ( 1008 -266.66666666666663 229.33333333333337 ) ( 1072 -266.66666666666663 229.33333333333337 ) ( 1072 -181.33333333333326 314.6666666666667 ) 64_blood_1 [ -6.4946704217662e-17 0.5303300858899107 0.5303300858899107 -0.62049294 ] [ -1 -1.6838893488276108e-16 4.592425496802574e-17 0 ] 218.94244 1 1
 ( 1648 -181.33333333333326 314.6666666666667 ) ( 1648 -266.66666666666663 229.33333333333337 ) ( 1648 -352 272 ) trim_band_blk [ -3.908079028333173e-16 -0.6708203932499374 0.3354101966249687 0.18919373 ] [ 4.181918377465275e-17 0.3354101966249685 0.670820393249937 0 ] 270 1.078689 1.0062304
 }

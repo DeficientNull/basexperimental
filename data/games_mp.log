@@ -1306,3 +1306,424 @@
  InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
 2:10 ShutdownGame:
 2:10 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+9:23 ShutdownGame:
+9:23 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:07 ShutdownGame:
+1:07 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:52 ShutdownGame:
+1:52 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+0:56 ShutdownGame:
+0:56 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:48 ShutdownGame:
+2:48 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:24 ShutdownGame:
+2:24 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:05 ShutdownGame:
+1:05 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:51 ClientUserinfoChanged: 0 n\Player\t\0
+2:51 ShutdownGame:
+2:51 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:51 ShutdownGame:
+1:51 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:55 ShutdownGame:
+1:55 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:13 ShutdownGame:
+1:13 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+7:37 ShutdownGame:
+7:37 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+0:57 ShutdownGame:
+0:57 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+5:29 ShutdownGame:
+5:29 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:16 ClientUserinfoChanged: 0 n\Player\t\0
+3:16 ShutdownGame:
+3:16 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\lqdm1\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+0:04 ShutdownGame:
+0:04 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:07 ShutdownGame:
+1:07 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+0:15 ShutdownGame:
+0:15 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+7:24 ShutdownGame:
+7:24 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:39 ShutdownGame:
+3:39 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:23 ShutdownGame:
+3:23 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+5:07 ShutdownGame:
+5:07 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+5:19 ShutdownGame:
+5:19 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+6:25 ShutdownGame:
+6:25 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:24 ShutdownGame:
+3:24 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:22 ShutdownGame:
+1:22 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:02 ShutdownGame:
+2:02 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:46 ShutdownGame:
+1:46 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:13 ShutdownGame:
+3:13 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+9:22 ShutdownGame:
+9:22 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+7:13 ShutdownGame:
+7:13 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+6:02 ShutdownGame:
+6:02 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+10:00 Exit: serverquit
+10:00 score: 0  ping: 15  client: 0 Player
+10:00 ShutdownGame:
+10:00 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+4:43 ShutdownGame:
+4:43 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+4:58 ShutdownGame:
+4:58 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+7:48 ShutdownGame:
+7:48 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:13 ShutdownGame:
+2:13 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+4:37 ShutdownGame:
+4:37 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:10 ShutdownGame:
+3:10 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+0:52 ShutdownGame:
+0:52 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:01 ShutdownGame:
+1:01 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+9:09 ClientUserinfoChanged: 0 n\Player\t\0
+9:09 ShutdownGame:
+9:09 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+1:21 ShutdownGame:
+1:21 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+8:04 ShutdownGame:
+8:04 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:27 ShutdownGame:
+2:27 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+2:01 ShutdownGame:
+2:01 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:53 ShutdownGame:
+1:53 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+3:27 ShutdownGame:
+3:27 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+1:45 ShutdownGame:
+1:45 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+9:10 ShutdownGame:
+9:10 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_glow\gamename\basexperimental\g_needpass\0
+0:01 ClientConnect: 0
+0:01 ClientUserinfoChanged: 0 n\Player\t\0\u\
+0:01 ClientBegin: 0
+6:41 ClientUserinfoChanged: 0 n\Player\t\0
+6:41 ShutdownGame:
+6:41 ------------------------------------------------------------
+ ------------------------------------------------------------
+ InitGame: \dmflags\0\fraglimit\0.000000\timelimit\10.000000\sv_hostname\Mayhem Server\sv_maxclients\8\com_gamename\Nuclide\g_gametype\0\mapname\test_parking\gamename\basexperimental\g_needpass\0
+0:43 ShutdownGame:
+0:43 ------------------------------------------------------------

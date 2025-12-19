@@ -1,0 +1,1204 @@
+// Game: Nuclide
+// Format: Quake3 (Valve)
+// entity 0
+{
+"mapversion" "220"
+"classname" "worldspawn"
+"_tb_mod" "basexperimental"
+"_tb_textures" "textures;textures/dev;textures/env;textures/lights;textures/skybox;textures/sun;textures/working/permissive/downpour/City/City_Brick;textures/working/permissive/downpour/City/City_Buildings;textures/working/permissive/downpour/City/City_Concrete;textures/working/permissive/downpour/City/City_Decor;textures/working/permissive/downpour/City/City_Metal;textures/working/permissive/downpour/City/City_Tiles;textures/working/permissive/downpour/Lights;textures/working/permissive/downpour/Metal/Metal_Industrial;textures/working/permissive/downpour/Metal/Metal_Lab;textures/working/permissive/downpour/Usable/Doors;textures/working/permissive/uncompressed/doors"
+"_tb_def" "external:/home/null/_01_projects/nuclide/halflife.fgd"
+// brush 0
+{
+( -256 -64 -16 ) ( -256 -63 -16 ) ( -256 -64 -15 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -208 -16 ) ( -64 -208 -15 ) ( -63 -208 -16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -64 0 ) ( -63 -64 0 ) ( -64 -63 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 64 16 ) ( 64 65 16 ) ( 65 64 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 688 16 ) ( 65 688 16 ) ( 64 688 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 64 64 16 ) ( 64 64 17 ) ( 64 65 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 1
+{
+( -272 -160 0 ) ( -272 -159 0 ) ( -272 -160 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -112 0 ) ( -288 -112 1 ) ( -287 -112 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -160 0 ) ( -287 -160 0 ) ( -288 -159 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 32 160 ) ( -256 33 160 ) ( -255 32 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -256 688 32 ) ( -255 688 32 ) ( -256 688 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 32 32 ) ( -256 32 33 ) ( -256 33 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 2
+{
+( -256 -160 0 ) ( -256 -159 0 ) ( -256 -160 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 208 32 ) ( -256 208 33 ) ( -255 208 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -160 16 ) ( -287 -160 16 ) ( -288 -159 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -256 32 128 ) ( -256 33 128 ) ( -255 32 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 -2.220446049250313e-16 96 ] 0 0.5 0.5
+( -256 224 32 ) ( -255 224 32 ) ( -256 224 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 32 32 ) ( -80 32 33 ) ( -80 33 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 3
+{
+( -256 0 0 ) ( -256 1 0 ) ( -256 0 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 368 32 ) ( -256 368 33 ) ( -255 368 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 0 16 ) ( -287 0 16 ) ( -288 1 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 64 ] 0 0.5 0.5
+( -256 192 128 ) ( -256 193 128 ) ( -255 192 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 -2.220446049250313e-16 96 ] 0 0.5 0.5
+( -256 384 32 ) ( -255 384 32 ) ( -256 384 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 192 32 ) ( -80 192 33 ) ( -80 193 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 4
+{
+( -256 176 0 ) ( -256 177 0 ) ( -256 176 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 160 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 544 32 ) ( -256 544 33 ) ( -255 544 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 176 16 ) ( -287 176 16 ) ( -288 177 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 160 ] 0 0.5 0.5
+( -256 368 128 ) ( -256 369 128 ) ( -255 368 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 -2.220446049250313e-16 96 ] 0 0.5 0.5
+( -256 560 32 ) ( -255 560 32 ) ( -256 560 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 368 32 ) ( -80 368 33 ) ( -80 369 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 5
+{
+( -256 320 0 ) ( -256 321 0 ) ( -256 320 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 688 32 ) ( -256 688 33 ) ( -255 688 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 320 16 ) ( -287 320 16 ) ( -288 321 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 512 160 ) ( -256 513 160 ) ( -255 512 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 704 32 ) ( -255 704 32 ) ( -256 704 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 512 32 ) ( -80 512 33 ) ( -80 513 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 6
+{
+( -16 512 32 ) ( -16 513 32 ) ( -16 512 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 1 0 -128 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 688 32 ) ( -256 688 33 ) ( -255 688 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 320 16 ) ( -287 320 16 ) ( -288 321 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 512 160 ) ( -256 513 160 ) ( -255 512 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 704 32 ) ( -255 704 32 ) ( -256 704 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 160 512 32 ) ( 160 512 33 ) ( 160 513 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 224 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 7
+{
+( -80 696 16 ) ( -80 697 16 ) ( -80 696 17 ) working/permissive/downpour/Usable/Doors/door2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -80 696 16 ) ( -80 696 17 ) ( -79 696 16 ) working/permissive/downpour/Usable/Doors/door2 [ 1 0 0 -944 ] [ 0 0 -1 138 ] 0 1 0.8
+( -80 696 16 ) ( -79 696 16 ) ( -80 697 16 ) working/permissive/downpour/Usable/Doors/door2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.2 0.2
+( -16 704 112 ) ( -16 705 112 ) ( -15 704 112 ) working/permissive/downpour/Usable/Doors/door2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.2 0.2
+( -16 704 24 ) ( -15 704 24 ) ( -16 704 25 ) working/permissive/downpour/Usable/Doors/door2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -16 704 24 ) ( -16 704 25 ) ( -16 705 24 ) working/permissive/downpour/Usable/Doors/door2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.2 0.2
+}
+// brush 8
+{
+( -272 688 0 ) ( -272 689 0 ) ( -272 688 1 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -64 688 0 ) ( -64 688 1 ) ( -63 688 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -64 688 0 ) ( -63 688 0 ) ( -64 689 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 0 768 16 ) ( 0 769 16 ) ( 1 768 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 0 704 16 ) ( 1 704 16 ) ( 0 704 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 768 16 ) ( 416 768 17 ) ( 416 769 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 9
+{
+( -80 688 96 ) ( -80 689 96 ) ( -80 688 97 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 688 96 ) ( -80 688 97 ) ( -79 688 96 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -80 688 112 ) ( -79 688 112 ) ( -80 689 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 1 -2.220446049250313e-16 -64 ] 0 0.5 0.5
+( -32 704 160 ) ( -32 705 160 ) ( -31 704 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -32 704 112 ) ( -31 704 112 ) ( -32 704 113 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -16 704 112 ) ( -16 704 113 ) ( -16 705 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 10
+{
+( 64 512 0 ) ( 64 513 0 ) ( 64 512 1 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 512 0 ) ( 64 512 1 ) ( 65 512 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 512 0 ) ( 65 512 0 ) ( 64 513 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 416 688 16 ) ( 416 689 16 ) ( 417 688 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 416 688 16 ) ( 417 688 16 ) ( 416 688 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 688 16 ) ( 416 688 17 ) ( 416 689 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 11
+{
+( 160 512 32 ) ( 160 513 32 ) ( 160 512 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 688 32 ) ( -256 688 33 ) ( -255 688 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 320 128 ) ( -287 320 128 ) ( -288 321 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 1 -2.220446049250313e-16 -96 ] 0 0.5 0.5
+( -256 512 160 ) ( -256 513 160 ) ( -255 512 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 704 32 ) ( -255 704 32 ) ( -256 704 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 320 512 32 ) ( 320 512 33 ) ( 320 513 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 12
+{
+( 160 512 32 ) ( 160 513 32 ) ( 160 512 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 1 1
+( -256 696 32 ) ( -256 696 33 ) ( -255 696 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -1 0 0 8.333328 ] [ 0 0 -1 3 ] 0 1.2 1
+( -288 320 16 ) ( -287 320 16 ) ( -288 321 16 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -1 0 0 -64 ] [ 0 -1 0 192 ] 0 1 1
+( -288 320 128 ) ( -288 321 128 ) ( -287 320 128 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -1 0 0 -64 ] [ 0 -1 0 192 ] 0 1 1
+( -256 704 32 ) ( -255 704 32 ) ( -256 704 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -1 0 0 8.333328 ] [ 0 0 -1 3 ] 0 1.2 1
+( 320 512 32 ) ( 320 512 33 ) ( 320 513 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 13
+{
+( 320 512 32 ) ( 320 513 32 ) ( 320 512 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 1 0 -32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 688 32 ) ( -256 688 33 ) ( -255 688 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 320 16 ) ( -287 320 16 ) ( -288 321 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 512 160 ) ( -256 513 160 ) ( -255 512 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( -256 704 32 ) ( -255 704 32 ) ( -256 704 33 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 512 32 ) ( 416 512 33 ) ( 416 513 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 14
+{
+( 80 384 0 ) ( 80 385 0 ) ( 80 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 496 0 ) ( 64 496 1 ) ( 65 496 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 16 ) ( 209 512 16 ) ( 208 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 160 512 16 ) ( 160 512 17 ) ( 160 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 4.440892098500626e-16 1 0 -224 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 15
+{
+( 160 512 16 ) ( 160 513 16 ) ( 160 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 496 0 ) ( 64 496 1 ) ( 65 496 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 64 ) ( 208 513 64 ) ( 209 512 64 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 16 ) ( 209 512 16 ) ( 208 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 320 512 16 ) ( 320 512 17 ) ( 320 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 16
+{
+( 160 512 16 ) ( 160 513 16 ) ( 160 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 496 0 ) ( 64 496 1 ) ( 65 496 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 208 512 128 ) ( 209 512 128 ) ( 208 513 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 16 ) ( 209 512 16 ) ( 208 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 320 512 16 ) ( 320 512 17 ) ( 320 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 17
+{
+( 320 512 16 ) ( 320 513 16 ) ( 320 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 496 0 ) ( 64 496 1 ) ( 65 496 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 16 ) ( 209 512 16 ) ( 208 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 512 16 ) ( 416 512 17 ) ( 416 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 18
+{
+( -256 496 160 ) ( -256 497 160 ) ( -256 496 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 32 ] 0 1 1
+( -224 512 160 ) ( -224 512 161 ) ( -223 512 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 32 ] 0 1 1
+( -224 496 160 ) ( -223 496 160 ) ( -224 497 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 416 704 176 ) ( 416 705 176 ) ( 417 704 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 416 688 176 ) ( 417 688 176 ) ( 416 688 177 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 32 ] 0 1 1
+( 416 704 176 ) ( 416 704 177 ) ( 416 705 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 32 ] 0 1 1
+}
+// brush 19
+{
+( -256 224 160 ) ( -256 225 160 ) ( -256 224 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( -256 -208 160 ) ( -256 -208 161 ) ( -255 -208 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( -256 224 160 ) ( -255 224 160 ) ( -256 225 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 512 176 ) ( 64 513 176 ) ( 65 512 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 512 176 ) ( 65 512 176 ) ( 64 512 177 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( 64 512 176 ) ( 64 512 177 ) ( 64 513 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+}
+// brush 20
+{
+( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 64 384 1 ) ( 65 384 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.930380657631324e-32 -1 -2.220446049250313e-16 32 ] [ 1 0 -2.220446049250313e-16 0 ] 0 0.5 0.5
+( 208 512 16 ) ( 209 512 16 ) ( 208 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 21
+{
+( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 80 0 ) ( 64 80 1 ) ( 65 80 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 64 ) ( 208 513 64 ) ( 209 512 64 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.371139006309477e-08 0.999999999999999 -2.2204460492503109e-16 0 ] [ -0.999999999999999 -4.371139006309477e-08 9.705878337283817e-24 0 ] 90 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 22
+{
+( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 80 0 ) ( 64 80 1 ) ( 65 80 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 208 512 128 ) ( 209 512 128 ) ( 208 513 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.371139006309477e-08 0.999999999999999 -2.2204460492503109e-16 0 ] [ -0.999999999999999 -4.371139006309477e-08 9.705878337283817e-24 0 ] 90 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.930380657631324e-32 -1 -2.220446049250313e-16 32 ] [ 1 0 -2.220446049250313e-16 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 23
+{
+( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -320 0 ) ( 64 -320 1 ) ( 65 -320 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 80 0 ) ( 65 80 0 ) ( 64 80 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 24
+{
+( 416 512 16 ) ( 416 513 16 ) ( 416 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 1 0 -224 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 496 0 ) ( 64 496 1 ) ( 65 496 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 -64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 576 16 ) ( 209 576 16 ) ( 208 576 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 512 16 ) ( 432 512 17 ) ( 432 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 25
+{
+( 416 512 16 ) ( 416 513 16 ) ( 416 512 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 1 0 -224 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 208 640 16 ) ( 208 640 17 ) ( 209 640 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 208 704 16 ) ( 209 704 16 ) ( 208 704 17 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 512 16 ) ( 432 512 17 ) ( 432 513 16 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 26
+{
+( 416 576 0 ) ( 416 577 0 ) ( 416 576 1 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 576 0 ) ( 416 576 1 ) ( 417 576 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 576 0 ) ( 417 576 0 ) ( 416 577 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 432 640 16 ) ( 432 641 16 ) ( 433 640 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 432 640 16 ) ( 433 640 16 ) ( 432 640 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 640 16 ) ( 432 640 17 ) ( 432 641 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 27
+{
+( -288 -208 0 ) ( -288 -207 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -208 0 ) ( -288 -208 1 ) ( -287 -208 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -208 -512 ) ( -287 -208 -512 ) ( -288 -207 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 704 16 ) ( -271 704 16 ) ( -272 704 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 80 16 ) ( -272 80 17 ) ( -272 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 208 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 28
+{
+( -288 -192 0 ) ( -288 -191 0 ) ( -288 -192 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -272 704 16 ) ( -272 704 17 ) ( -271 704 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -192 -512 ) ( -287 -192 -512 ) ( -288 -191 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 16 ] 0 1 1
+( -272 96 272 ) ( -272 97 272 ) ( -271 96 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 16 ] 0 1 1
+( -272 720 16 ) ( -271 720 16 ) ( -272 720 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 96 16 ) ( 1472 96 17 ) ( 1472 97 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 29
+{
+( -264 0 -16 ) ( -264 1 -16 ) ( -264 0 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 0 -16 ) ( -272 0 -15 ) ( -271 0 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 0 -8 ) ( -271 0 -8 ) ( -272 1 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -176 16 0 ) ( -176 17 0 ) ( -175 16 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -176 16 0 ) ( -175 16 0 ) ( -176 16 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 16 0 ) ( 8 16 1 ) ( 8 17 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 30
+{
+( -272 0 -16 ) ( -272 1 -16 ) ( -272 0 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 0 -16 ) ( -272 0 -15 ) ( -271 0 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 0 -336 ) ( -271 0 -336 ) ( -272 1 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -176 16 0 ) ( -176 17 0 ) ( -175 16 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -176 16 0 ) ( -175 16 0 ) ( -176 16 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 0 -16 ) ( -264 0 -15 ) ( -264 1 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 31
+{
+( -272 16 -152 ) ( -128 16 -8 ) ( -128 0 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0.49999999999999867 0 0.500000000000002 24.000006 ] [ 0 -1 0 0 ] 18.43495 1 1
+( -128 0 -8 ) ( -120 0 -8 ) ( -264 0 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10.000001 ] 327.23712 1 1
+( -264 16 -152 ) ( -272 16 -152 ) ( -272 0 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 16 -8 ) ( -120 16 -8 ) ( -120 0 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 16 -152 ) ( -120 16 -8 ) ( -128 16 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10.000001 ] 32.76288 1 1
+( -120 0 -8 ) ( -120 16 -8 ) ( -264 16 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -0.49999999999999534 0 -0.5000000000000049 -15.999998 ] [ 0 -1 0 0 ] 18.43495 1 1
+}
+// brush 32
+{
+( -272 176 -152 ) ( -128 176 -8 ) ( -128 160 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0.49999999999999867 0 0.500000000000002 24 ] [ 0 -1 0 12 ] 18.43495 1 1
+( -128 160 -8 ) ( -120 160 -8 ) ( -264 160 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 327.23712 1 1
+( -264 176 -152 ) ( -272 176 -152 ) ( -272 160 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 176 -8 ) ( -120 176 -8 ) ( -120 160 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 176 -152 ) ( -120 176 -8 ) ( -128 176 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 32.76288 1 1
+( -120 160 -8 ) ( -120 176 -8 ) ( -264 176 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -0.49999999999999534 0 -0.5000000000000049 -16 ] [ 0 -1 0 12 ] 18.43495 1 1
+}
+// brush 33
+{
+( -272 160 -16 ) ( -272 161 -16 ) ( -272 160 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 160 -16 ) ( -272 160 -15 ) ( -271 160 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 160 -336 ) ( -271 160 -336 ) ( -272 161 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 12 ] 0 1 1
+( -176 176 0 ) ( -176 177 0 ) ( -175 176 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 12 ] 0 1 1
+( -176 176 0 ) ( -175 176 0 ) ( -176 176 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 160 -16 ) ( -264 160 -15 ) ( -264 161 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 34
+{
+( -264 160 -16 ) ( -264 161 -16 ) ( -264 160 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 160 -16 ) ( -272 160 -15 ) ( -271 160 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 160 -8 ) ( -271 160 -8 ) ( -272 161 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 12 ] 0 1 1
+( -176 176 0 ) ( -176 177 0 ) ( -175 176 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 12 ] 0 1 1
+( -176 176 0 ) ( -175 176 0 ) ( -176 176 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 176 0 ) ( 8 176 1 ) ( 8 177 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 35
+{
+( -272 336 -152 ) ( -128 336 -8 ) ( -128 320 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0.49999999999999867 0 0.500000000000002 24 ] [ 0 -1 0 2 ] 18.43495 1 1
+( -128 320 -8 ) ( -120 320 -8 ) ( -264 320 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 327.23712 1 1
+( -264 336 -152 ) ( -272 336 -152 ) ( -272 320 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 336 -8 ) ( -120 336 -8 ) ( -120 320 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 336 -152 ) ( -120 336 -8 ) ( -128 336 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 32.76288 1 1
+( -120 320 -8 ) ( -120 336 -8 ) ( -264 336 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -0.49999999999999534 0 -0.5000000000000049 -16 ] [ 0 -1 0 2 ] 18.43495 1 1
+}
+// brush 36
+{
+( -272 320 -16 ) ( -272 321 -16 ) ( -272 320 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 320 -16 ) ( -272 320 -15 ) ( -271 320 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 320 -336 ) ( -271 320 -336 ) ( -272 321 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 2 ] 0 1 1
+( -176 336 0 ) ( -176 337 0 ) ( -175 336 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 2 ] 0 1 1
+( -176 336 0 ) ( -175 336 0 ) ( -176 336 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 320 -16 ) ( -264 320 -15 ) ( -264 321 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 37
+{
+( -264 320 -16 ) ( -264 321 -16 ) ( -264 320 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 320 -16 ) ( -272 320 -15 ) ( -271 320 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 320 -8 ) ( -271 320 -8 ) ( -272 321 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 2 ] 0 1 1
+( -176 336 0 ) ( -176 337 0 ) ( -175 336 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 2 ] 0 1 1
+( -176 336 0 ) ( -175 336 0 ) ( -176 336 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 336 0 ) ( 8 336 1 ) ( 8 337 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 38
+{
+( -272 496 -152 ) ( -128 496 -8 ) ( -128 480 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0.49999999999999867 0 0.500000000000002 24 ] [ 0 -1 0 14 ] 18.43495 1 1
+( -128 480 -8 ) ( -120 480 -8 ) ( -264 480 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 327.23712 1 1
+( -264 496 -152 ) ( -272 496 -152 ) ( -272 480 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 496 -8 ) ( -120 496 -8 ) ( -120 480 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 496 -152 ) ( -120 496 -8 ) ( -128 496 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 32.76288 1 1
+( -120 480 -8 ) ( -120 496 -8 ) ( -264 496 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -0.49999999999999534 0 -0.5000000000000049 -16 ] [ 0 -1 0 14 ] 18.43495 1 1
+}
+// brush 39
+{
+( -272 480 -16 ) ( -272 481 -16 ) ( -272 480 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 480 -16 ) ( -272 480 -15 ) ( -271 480 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 480 -336 ) ( -271 480 -336 ) ( -272 481 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 14 ] 0 1 1
+( -176 496 0 ) ( -176 497 0 ) ( -175 496 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 14 ] 0 1 1
+( -176 496 0 ) ( -175 496 0 ) ( -176 496 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 480 -16 ) ( -264 480 -15 ) ( -264 481 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 40
+{
+( -264 480 -16 ) ( -264 481 -16 ) ( -264 480 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 480 -16 ) ( -272 480 -15 ) ( -271 480 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 480 -8 ) ( -271 480 -8 ) ( -272 481 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 14 ] 0 1 1
+( -176 496 0 ) ( -176 497 0 ) ( -175 496 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 14 ] 0 1 1
+( -176 496 0 ) ( -175 496 0 ) ( -176 496 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 496 0 ) ( 8 496 1 ) ( 8 497 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 41
+{
+( 80 560 -8 ) ( 80 552 -8 ) ( 80 696 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 3.749399456654645e-33 -6.123233995736767e-17 1 32 ] [ 6.123233995736767e-17 -1.0000000000000002 -1.0000000000000002 18 ] 327.23712 1 1
+( 80 552 -8 ) ( 96 552 -8 ) ( 96 696 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -3.0616169978683547e-17 0.49999999999999534 -0.5000000000000049 0 ] [ -1 -6.123233995736766e-17 0 6 ] 307.90616 1 1
+( 96 696 -152 ) ( 96 704 -152 ) ( 80 704 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 6.123233995736766e-17 -1 -6.123233995736766e-17 14 ] 270 1 1
+( 96 560 -8 ) ( 96 552 -8 ) ( 80 552 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 6.123233995736766e-17 0 -32 ] [ 6.123233995736766e-17 -1 -6.123233995736766e-17 12 ] 90 1 1
+( 96 704 -152 ) ( 96 560 -8 ) ( 80 560 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 3.061616997868375e-17 -0.49999999999999867 0.500000000000002 8 ] [ -1 -6.123233995736766e-17 0 6 ] 88.96373 1 1
+( 96 696 -152 ) ( 96 552 -8 ) ( 96 560 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -3.749399456654645e-33 6.123233995736767e-17 -1 -32 ] [ 6.123233995736767e-17 -1.0000000000000002 -1.0000000000000002 18 ] 32.76288 1 1
+}
+// brush 42
+{
+( 80 704 -16 ) ( 80 704 -15 ) ( 80 703 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 80 696 -16 ) ( 80 696 -15 ) ( 81 696 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 80 704 -336 ) ( 80 703 -336 ) ( 81 704 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 6 ] 270 1 1
+( 96 608 0 ) ( 97 608 0 ) ( 96 607 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ -1 -6.123233995736766e-17 0 6 ] 90 1 1
+( 80 704 -16 ) ( 81 704 -16 ) ( 80 704 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 96 608 0 ) ( 96 607 0 ) ( 96 608 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 43
+{
+( 80 704 -16 ) ( 80 704 -15 ) ( 80 703 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 96 512 0 ) ( 96 512 1 ) ( 97 512 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 6.123233995736766e-17 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 80 704 -8 ) ( 80 703 -8 ) ( 81 704 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 6 ] 270 1 1
+( 96 608 0 ) ( 97 608 0 ) ( 96 607 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ -1 -6.123233995736766e-17 0 6 ] 90 1 1
+( 80 696 -16 ) ( 81 696 -16 ) ( 80 696 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 96 608 0 ) ( 96 607 0 ) ( 96 608 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 44
+{
+( 272 560 -8 ) ( 272 552 -8 ) ( 272 696 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 3.749399456654645e-33 -6.123233995736767e-17 1 32 ] [ 6.123233995736767e-17 -1.0000000000000002 -1.0000000000000002 18 ] 327.23712 1 1
+( 272 552 -8 ) ( 288 552 -8 ) ( 288 696 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -3.0616169978683547e-17 0.49999999999999534 -0.5000000000000049 0 ] [ -1 -6.123233995736766e-17 0 16 ] 307.90616 1 1
+( 288 696 -152 ) ( 288 704 -152 ) ( 272 704 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 6.123233995736766e-17 -1 -6.123233995736766e-17 14 ] 270 1 1
+( 288 560 -8 ) ( 288 552 -8 ) ( 272 552 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 6.123233995736766e-17 0 -32 ] [ 6.123233995736766e-17 -1 -6.123233995736766e-17 12 ] 90 1 1
+( 288 704 -152 ) ( 288 560 -8 ) ( 272 560 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 3.061616997868375e-17 -0.49999999999999867 0.500000000000002 8 ] [ -1 -6.123233995736766e-17 0 16 ] 88.96373 1 1
+( 288 696 -152 ) ( 288 552 -8 ) ( 288 560 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -3.749399456654645e-33 6.123233995736767e-17 -1 -32 ] [ 6.123233995736767e-17 -1.0000000000000002 -1.0000000000000002 18 ] 32.76288 1 1
+}
+// brush 45
+{
+( 272 704 -16 ) ( 272 704 -15 ) ( 272 703 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 272 696 -16 ) ( 272 696 -15 ) ( 273 696 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 272 704 -336 ) ( 272 703 -336 ) ( 273 704 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 16 ] 270 1 1
+( 288 608 0 ) ( 289 608 0 ) ( 288 607 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ -1 -6.123233995736766e-17 0 16 ] 90 1 1
+( 272 704 -16 ) ( 273 704 -16 ) ( 272 704 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 288 608 0 ) ( 288 607 0 ) ( 288 608 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 46
+{
+( 272 704 -16 ) ( 272 704 -15 ) ( 272 703 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 288 512 0 ) ( 288 512 1 ) ( 289 512 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 6.123233995736766e-17 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 272 704 -8 ) ( 272 703 -8 ) ( 273 704 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ -1 -6.123233995736766e-17 0 16 ] 270 1 1
+( 288 608 0 ) ( 289 608 0 ) ( 288 607 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736766e-17 -1 0 32 ] [ -1 -6.123233995736766e-17 0 16 ] 90 1 1
+( 272 696 -16 ) ( 273 696 -16 ) ( 272 696 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 -6.123233995736766e-17 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 288 608 0 ) ( 288 607 0 ) ( 288 608 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736766e-17 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 47
+{
+( -288 -16 -528 ) ( -288 -15 -528 ) ( -288 -16 -527 ) working/permissive/downpour/City/City_Tiles/gray029 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 -528 ) ( -288 -224 -527 ) ( -287 -224 -528 ) working/permissive/downpour/City/City_Tiles/gray029 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -16 -528 ) ( -287 -16 -528 ) ( -288 -15 -528 ) working/permissive/downpour/City/City_Tiles/gray029 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 288 720 -512 ) ( 288 721 -512 ) ( 289 720 -512 ) working/permissive/downpour/City/City_Tiles/gray029 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 288 720 -512 ) ( 289 720 -512 ) ( 288 720 -511 ) working/permissive/downpour/City/City_Tiles/gray029 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 720 -512 ) ( 1024 720 -511 ) ( 1024 721 -512 ) working/permissive/downpour/City/City_Tiles/gray029 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 48
+{
+( -288 -208 0 ) ( -288 -207 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -208 -512 ) ( -287 -208 -512 ) ( -288 -207 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 80 0 ) ( -272 81 0 ) ( -271 80 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 80 80 16 ) ( 80 80 17 ) ( 80 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 49
+{
+( -288 -208 0 ) ( -288 -207 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 80 160 ) ( -271 80 160 ) ( -272 81 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 80 80 16 ) ( 80 80 17 ) ( 80 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 50
+{
+( 80 80 16 ) ( 80 81 16 ) ( 80 80 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -208 -512 ) ( -287 -208 -512 ) ( -288 -207 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 864 80 16 ) ( 864 80 17 ) ( 864 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 51
+{
+( 416 576 128 ) ( 416 577 128 ) ( 416 576 129 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 1 0 -224 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 576 128 ) ( 416 576 129 ) ( 417 576 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 416 576 128 ) ( 417 576 128 ) ( 416 577 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 432 640 176 ) ( 432 641 176 ) ( 433 640 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 432 640 136 ) ( 433 640 136 ) ( 432 640 137 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 640 136 ) ( 432 640 137 ) ( 432 641 136 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 52
+{
+( -128 384 -512 ) ( -128 385 -512 ) ( -128 384 -511 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 2.220446049250313e-16 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -192 384 -512 ) ( -192 384 -511 ) ( -191 384 -512 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -192 384 -512 ) ( -191 384 -512 ) ( -192 385 -512 ) working/permissive/downpour/Usable/Doors/verygrg2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 192 512 -256 ) ( 192 513 -256 ) ( 193 512 -256 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 1 0 0 0 ] [ 0 -1 -2.220446049250313e-16 128 ] 0 1 1
+( 192 640 -448 ) ( 193 640 -448 ) ( 192 640 -447 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 528 512 -448 ) ( 528 512 -447 ) ( 528 513 -448 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 2.220446049250313e-16 1 0 144 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 53
+{
+( -128 48 -448 ) ( -128 49 -448 ) ( -128 48 -447 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 6.123233995736766e-17 1 0 144 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -144 -512 ) ( 127 -144 -512 ) ( 128 -144 -511 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 1 1.6081226496766364e-16 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -336 -512 ) ( 128 -335 -512 ) ( 127 -336 -512 ) working/permissive/downpour/Usable/Doors/verygrg2 [ -6.123233995736766e-17 -1 0 -144 ] [ 1 -6.123233995736766e-17 0 0 ] 90 1 1
+( 0 48 -256 ) ( -1 48 -256 ) ( 0 49 -256 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 6.123233995736766e-17 1 0 144 ] [ 1 -6.123233995736766e-17 -2.220446049250313e-16 -128 ] 270 1 1
+( 0 384 -448 ) ( 0 384 -447 ) ( -1 384 -448 ) working/permissive/downpour/Usable/Doors/verygrg2 [ -1 2.83276944882399e-16 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -336 -512 ) ( 128 -336 -511 ) ( 128 -335 -512 ) working/permissive/downpour/Usable/Doors/verygrg2 [ 6.123233995736766e-17 1 0 144 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 54
+{
+( 536 576 16 ) ( 536 560 16 ) ( 536 560 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 32 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 1024 560 -240 ) ( 1024 576 -240 ) ( 536 576 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -0.805236961696613 0 0.3960181778835542 -208.78595 ] [ 0 -1 0 -6 ] 23.988094 0.5 0.5
+( 536 560 16 ) ( 1024 560 -224 ) ( 1024 560 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ -0.49180327868852447 0 -1 -16.786873 ] 27.630707 0.5 0.5
+( 1024 576 -240 ) ( 1024 576 -224 ) ( 536 576 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ -0.49180327868852447 0 -1 -16.786873 ] 332.36926 0.5 0.5
+( 536 576 16 ) ( 1024 576 -224 ) ( 1024 560 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0.8052369616966144 0 -0.3960181778835515 221.45857 ] [ 0 -1 0 -6 ] 23.988096 0.5 0.5
+( 1024 560 -224 ) ( 1024 576 -224 ) ( 1024 576 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 55
+{
+( 432 576 8 ) ( 432 577 8 ) ( 432 576 9 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 576 8 ) ( 432 576 9 ) ( 433 576 8 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 432 576 8 ) ( 433 576 8 ) ( 432 577 8 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 448 640 16 ) ( 448 641 16 ) ( 449 640 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 0.5 0.5
+( 448 640 16 ) ( 449 640 16 ) ( 448 640 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 536 640 16 ) ( 536 640 17 ) ( 536 641 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 2.220446049250313e-16 0 -1 80 ] [ 0 -1 0 -6 ] 0 0.5 0.5
+}
+// brush 56
+{
+( 536 576 0 ) ( 536 577 0 ) ( 536 576 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -16 ] 0 0.5 0.5
+( 536 576 0 ) ( 536 576 1 ) ( 537 576 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -16 ] 0 0.5 0.5
+( 536 576 0 ) ( 537 576 0 ) ( 536 577 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 552 640 8 ) ( 552 641 8 ) ( 553 640 8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 552 640 8 ) ( 553 640 8 ) ( 552 640 9 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -16 ] 0 0.5 0.5
+( 544 640 8 ) ( 544 640 9 ) ( 544 641 8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -16 ] 0 0.5 0.5
+}
+// brush 57
+{
+( 552 576 -8 ) ( 552 577 -8 ) ( 552 576 -7 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -10 ] 0 0.5 0.5
+( 552 576 -8 ) ( 552 576 -7 ) ( 553 576 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -10 ] 0 0.5 0.5
+( 552 576 -8 ) ( 553 576 -8 ) ( 552 577 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 568 640 0 ) ( 568 641 0 ) ( 569 640 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 568 640 0 ) ( 569 640 0 ) ( 568 640 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -10 ] 0 0.5 0.5
+( 560 640 0 ) ( 560 640 1 ) ( 560 641 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -10 ] 0 0.5 0.5
+}
+// brush 58
+{
+( 568 576 -16 ) ( 568 577 -16 ) ( 568 576 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 568 576 -16 ) ( 568 576 -15 ) ( 569 576 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 568 576 -16 ) ( 569 576 -16 ) ( 568 577 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 584 640 -8 ) ( 584 641 -8 ) ( 585 640 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 584 640 -8 ) ( 585 640 -8 ) ( 584 640 -7 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 576 640 -8 ) ( 576 640 -7 ) ( 576 641 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+}
+// brush 59
+{
+( 584 576 -24 ) ( 584 577 -24 ) ( 584 576 -23 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 584 576 -24 ) ( 584 576 -23 ) ( 585 576 -24 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 584 576 -24 ) ( 585 576 -24 ) ( 584 577 -24 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 600 640 -16 ) ( 600 641 -16 ) ( 601 640 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 600 640 -16 ) ( 601 640 -16 ) ( 600 640 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 592 640 -16 ) ( 592 640 -15 ) ( 592 641 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+}
+// brush 60
+{
+( 600 576 -32 ) ( 600 577 -32 ) ( 600 576 -31 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 600 576 -32 ) ( 600 576 -31 ) ( 601 576 -32 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 600 576 -32 ) ( 601 576 -32 ) ( 600 577 -32 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 616 640 -24 ) ( 616 641 -24 ) ( 617 640 -24 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 616 640 -24 ) ( 617 640 -24 ) ( 616 640 -23 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 608 640 -24 ) ( 608 640 -23 ) ( 608 641 -24 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+}
+// brush 61
+{
+( 616 576 -40 ) ( 616 577 -40 ) ( 616 576 -39 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 616 576 -40 ) ( 616 576 -39 ) ( 617 576 -40 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 616 576 -40 ) ( 617 576 -40 ) ( 616 577 -40 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 632 640 -32 ) ( 632 641 -32 ) ( 633 640 -32 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 632 640 -32 ) ( 633 640 -32 ) ( 632 640 -31 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 624 640 -32 ) ( 624 640 -31 ) ( 624 641 -32 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 14 ] 0 0.5 0.5
+}
+// brush 62
+{
+( 632 576 -48 ) ( 632 577 -48 ) ( 632 576 -47 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 632 576 -48 ) ( 632 576 -47 ) ( 633 576 -48 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 632 576 -48 ) ( 633 576 -48 ) ( 632 577 -48 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 648 640 -40 ) ( 648 641 -40 ) ( 649 640 -40 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 648 640 -40 ) ( 649 640 -40 ) ( 648 640 -39 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 640 640 -40 ) ( 640 640 -39 ) ( 640 641 -40 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+}
+// brush 63
+{
+( 744 576 -104 ) ( 744 577 -104 ) ( 744 576 -103 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 744 576 -104 ) ( 744 576 -103 ) ( 745 576 -104 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 744 576 -104 ) ( 745 576 -104 ) ( 744 577 -104 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 760 640 -96 ) ( 760 641 -96 ) ( 761 640 -96 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 760 640 -96 ) ( 761 640 -96 ) ( 760 640 -95 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+( 752 640 -96 ) ( 752 640 -95 ) ( 752 641 -96 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -4 ] 0 0.5 0.5
+}
+// brush 64
+{
+( 728 576 -96 ) ( 728 577 -96 ) ( 728 576 -95 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 728 576 -96 ) ( 728 576 -95 ) ( 729 576 -96 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 728 576 -96 ) ( 729 576 -96 ) ( 728 577 -96 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 744 640 -88 ) ( 744 641 -88 ) ( 745 640 -88 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 744 640 -88 ) ( 745 640 -88 ) ( 744 640 -87 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 736 640 -88 ) ( 736 640 -87 ) ( 736 641 -88 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 12 ] 0 0.5 0.5
+}
+// brush 65
+{
+( 712 576 -88 ) ( 712 577 -88 ) ( 712 576 -87 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 712 576 -88 ) ( 712 576 -87 ) ( 713 576 -88 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 712 576 -88 ) ( 713 576 -88 ) ( 712 577 -88 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 728 640 -80 ) ( 728 641 -80 ) ( 729 640 -80 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 728 640 -80 ) ( 729 640 -80 ) ( 728 640 -79 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 720 640 -80 ) ( 720 640 -79 ) ( 720 641 -80 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 6 ] 0 0.5 0.5
+}
+// brush 66
+{
+( 696 576 -80 ) ( 696 577 -80 ) ( 696 576 -79 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 696 576 -80 ) ( 696 576 -79 ) ( 697 576 -80 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 696 576 -80 ) ( 697 576 -80 ) ( 696 577 -80 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 712 640 -72 ) ( 712 641 -72 ) ( 713 640 -72 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 712 640 -72 ) ( 713 640 -72 ) ( 712 640 -71 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 704 640 -72 ) ( 704 640 -71 ) ( 704 641 -72 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 67
+{
+( 680 576 -72 ) ( 680 577 -72 ) ( 680 576 -71 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 16 ] 0 0.5 0.5
+( 680 576 -72 ) ( 680 576 -71 ) ( 681 576 -72 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 16 ] 0 0.5 0.5
+( 680 576 -72 ) ( 681 576 -72 ) ( 680 577 -72 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 696 640 -64 ) ( 696 641 -64 ) ( 697 640 -64 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 696 640 -64 ) ( 697 640 -64 ) ( 696 640 -63 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 16 ] 0 0.5 0.5
+( 688 640 -64 ) ( 688 640 -63 ) ( 688 641 -64 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 0.5 0.5
+}
+// brush 68
+{
+( 664 576 -64 ) ( 664 577 -64 ) ( 664 576 -63 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 664 576 -64 ) ( 664 576 -63 ) ( 665 576 -64 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 664 576 -64 ) ( 665 576 -64 ) ( 664 577 -64 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 680 640 -56 ) ( 680 641 -56 ) ( 681 640 -56 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 680 640 -56 ) ( 681 640 -56 ) ( 680 640 -55 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 672 640 -56 ) ( 672 640 -55 ) ( 672 641 -56 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 10 ] 0 0.5 0.5
+}
+// brush 69
+{
+( 648 576 -56 ) ( 648 577 -56 ) ( 648 576 -55 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 648 576 -56 ) ( 648 576 -55 ) ( 649 576 -56 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 648 576 -56 ) ( 649 576 -56 ) ( 648 577 -56 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 664 640 -48 ) ( 664 641 -48 ) ( 665 640 -48 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 664 640 -48 ) ( 665 640 -48 ) ( 664 640 -47 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 656 640 -48 ) ( 656 640 -47 ) ( 656 641 -48 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 4 ] 0 0.5 0.5
+}
+// brush 70
+{
+( 856 576 -160 ) ( 856 577 -160 ) ( 856 576 -159 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -6 ] 0 0.5 0.5
+( 856 576 -160 ) ( 856 576 -159 ) ( 857 576 -160 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -6 ] 0 0.5 0.5
+( 856 576 -160 ) ( 857 576 -160 ) ( 856 577 -160 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 872 640 -152 ) ( 872 641 -152 ) ( 873 640 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 872 640 -152 ) ( 873 640 -152 ) ( 872 640 -151 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -6 ] 0 0.5 0.5
+( 864 640 -152 ) ( 864 640 -151 ) ( 864 641 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -6 ] 0 0.5 0.5
+}
+// brush 71
+{
+( 840 576 -152 ) ( 840 577 -152 ) ( 840 576 -151 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -12 ] 0 0.5 0.5
+( 840 576 -152 ) ( 840 576 -151 ) ( 841 576 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -12 ] 0 0.5 0.5
+( 840 576 -152 ) ( 841 576 -152 ) ( 840 577 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 856 640 -144 ) ( 856 641 -144 ) ( 857 640 -144 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 856 640 -144 ) ( 857 640 -144 ) ( 856 640 -143 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -12 ] 0 0.5 0.5
+( 848 640 -144 ) ( 848 640 -143 ) ( 848 641 -144 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 0.5 0.5
+}
+// brush 72
+{
+( 824 576 -144 ) ( 824 577 -144 ) ( 824 576 -143 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -18 ] 0 0.5 0.5
+( 824 576 -144 ) ( 824 576 -143 ) ( 825 576 -144 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -18 ] 0 0.5 0.5
+( 824 576 -144 ) ( 825 576 -144 ) ( 824 577 -144 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 840 640 -136 ) ( 840 641 -136 ) ( 841 640 -136 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 840 640 -136 ) ( 841 640 -136 ) ( 840 640 -135 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -18 ] 0 0.5 0.5
+( 832 640 -136 ) ( 832 640 -135 ) ( 832 641 -136 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -18 ] 0 0.5 0.5
+}
+// brush 73
+{
+( 808 576 -136 ) ( 808 577 -136 ) ( 808 576 -135 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 808 576 -136 ) ( 808 576 -135 ) ( 809 576 -136 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 808 576 -136 ) ( 809 576 -136 ) ( 808 577 -136 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 824 640 -128 ) ( 824 641 -128 ) ( 825 640 -128 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 824 640 -128 ) ( 825 640 -128 ) ( 824 640 -127 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+( 816 640 -128 ) ( 816 640 -127 ) ( 816 641 -128 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -2 ] 0 0.5 0.5
+}
+// brush 74
+{
+( 792 576 -128 ) ( 792 577 -128 ) ( 792 576 -127 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -8 ] 0 0.5 0.5
+( 792 576 -128 ) ( 792 576 -127 ) ( 793 576 -128 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -8 ] 0 0.5 0.5
+( 792 576 -128 ) ( 793 576 -128 ) ( 792 577 -128 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 808 640 -120 ) ( 808 641 -120 ) ( 809 640 -120 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 808 640 -120 ) ( 809 640 -120 ) ( 808 640 -119 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -8 ] 0 0.5 0.5
+( 800 640 -120 ) ( 800 640 -119 ) ( 800 641 -120 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -8 ] 0 0.5 0.5
+}
+// brush 75
+{
+( 776 576 -120 ) ( 776 577 -120 ) ( 776 576 -119 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 776 576 -120 ) ( 776 576 -119 ) ( 777 576 -120 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 776 576 -120 ) ( 777 576 -120 ) ( 776 577 -120 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 792 640 -112 ) ( 792 641 -112 ) ( 793 640 -112 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 792 640 -112 ) ( 793 640 -112 ) ( 792 640 -111 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+( 784 640 -112 ) ( 784 640 -111 ) ( 784 641 -112 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -14 ] 0 0.5 0.5
+}
+// brush 76
+{
+( 760 576 -112 ) ( 760 577 -112 ) ( 760 576 -111 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 760 576 -112 ) ( 760 576 -111 ) ( 761 576 -112 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 760 576 -112 ) ( 761 576 -112 ) ( 760 577 -112 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 776 640 -104 ) ( 776 641 -104 ) ( 777 640 -104 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 776 640 -104 ) ( 777 640 -104 ) ( 776 640 -103 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+( 768 640 -104 ) ( 768 640 -103 ) ( 768 641 -104 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 -20 ] 0 0.5 0.5
+}
+// brush 77
+{
+( 968 576 -216 ) ( 968 577 -216 ) ( 968 576 -215 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 968 576 -216 ) ( 968 576 -215 ) ( 969 576 -216 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 968 576 -216 ) ( 969 576 -216 ) ( 968 577 -216 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 984 640 -208 ) ( 984 641 -208 ) ( 985 640 -208 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 984 640 -208 ) ( 985 640 -208 ) ( 984 640 -207 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 14 ] 0 0.5 0.5
+( 976 640 -208 ) ( 976 640 -207 ) ( 976 641 -208 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 14 ] 0 0.5 0.5
+}
+// brush 78
+{
+( 952 576 -208 ) ( 952 577 -208 ) ( 952 576 -207 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 8 ] 0 0.5 0.5
+( 952 576 -208 ) ( 952 576 -207 ) ( 953 576 -208 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 8 ] 0 0.5 0.5
+( 952 576 -208 ) ( 953 576 -208 ) ( 952 577 -208 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 968 640 -200 ) ( 968 641 -200 ) ( 969 640 -200 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 968 640 -200 ) ( 969 640 -200 ) ( 968 640 -199 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 8 ] 0 0.5 0.5
+( 960 640 -200 ) ( 960 640 -199 ) ( 960 641 -200 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 8 ] 0 0.5 0.5
+}
+// brush 79
+{
+( 936 576 -200 ) ( 936 577 -200 ) ( 936 576 -199 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 2 ] 0 0.5 0.5
+( 936 576 -200 ) ( 936 576 -199 ) ( 937 576 -200 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 2 ] 0 0.5 0.5
+( 936 576 -200 ) ( 937 576 -200 ) ( 936 577 -200 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 952 640 -192 ) ( 952 641 -192 ) ( 953 640 -192 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 952 640 -192 ) ( 953 640 -192 ) ( 952 640 -191 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 2 ] 0 0.5 0.5
+( 944 640 -192 ) ( 944 640 -191 ) ( 944 641 -192 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 2 ] 0 0.5 0.5
+}
+// brush 80
+{
+( 920 576 -192 ) ( 920 577 -192 ) ( 920 576 -191 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 18 ] 0 0.5 0.5
+( 920 576 -192 ) ( 920 576 -191 ) ( 921 576 -192 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 18 ] 0 0.5 0.5
+( 920 576 -192 ) ( 921 576 -192 ) ( 920 577 -192 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 936 640 -184 ) ( 936 641 -184 ) ( 937 640 -184 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 936 640 -184 ) ( 937 640 -184 ) ( 936 640 -183 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 18 ] 0 0.5 0.5
+( 928 640 -184 ) ( 928 640 -183 ) ( 928 641 -184 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 18 ] 0 0.5 0.5
+}
+// brush 81
+{
+( 904 576 -184 ) ( 904 577 -184 ) ( 904 576 -183 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 904 576 -184 ) ( 904 576 -183 ) ( 905 576 -184 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 904 576 -184 ) ( 905 576 -184 ) ( 904 577 -184 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 920 640 -176 ) ( 920 641 -176 ) ( 921 640 -176 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 920 640 -176 ) ( 921 640 -176 ) ( 920 640 -175 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 12 ] 0 0.5 0.5
+( 912 640 -176 ) ( 912 640 -175 ) ( 912 641 -176 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 12 ] 0 0.5 0.5
+}
+// brush 82
+{
+( 888 576 -176 ) ( 888 577 -176 ) ( 888 576 -175 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 888 576 -176 ) ( 888 576 -175 ) ( 889 576 -176 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 888 576 -176 ) ( 889 576 -176 ) ( 888 577 -176 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 904 640 -168 ) ( 904 641 -168 ) ( 905 640 -168 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 904 640 -168 ) ( 905 640 -168 ) ( 904 640 -167 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 6 ] 0 0.5 0.5
+( 896 640 -168 ) ( 896 640 -167 ) ( 896 641 -168 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 6 ] 0 0.5 0.5
+}
+// brush 83
+{
+( 872 576 -168 ) ( 872 577 -168 ) ( 872 576 -167 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 872 576 -168 ) ( 872 576 -167 ) ( 873 576 -168 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 872 576 -168 ) ( 873 576 -168 ) ( 872 577 -168 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 888 640 -160 ) ( 888 641 -160 ) ( 889 640 -160 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 888 640 -160 ) ( 889 640 -160 ) ( 888 640 -159 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 880 640 -160 ) ( 880 640 -159 ) ( 880 641 -160 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 84
+{
+( 1016 576 -240 ) ( 1016 577 -240 ) ( 1016 576 -239 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 1016 576 -240 ) ( 1016 576 -239 ) ( 1017 576 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 1016 576 -240 ) ( 1017 576 -240 ) ( 1016 577 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1032 640 -232 ) ( 1032 641 -232 ) ( 1033 640 -232 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1032 640 -232 ) ( 1033 640 -232 ) ( 1032 640 -231 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 10 ] 0 0.5 0.5
+( 1024 640 -232 ) ( 1024 640 -231 ) ( 1024 641 -232 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 10 ] 0 0.5 0.5
+}
+// brush 85
+{
+( 1000 576 -232 ) ( 1000 577 -232 ) ( 1000 576 -231 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 1000 576 -232 ) ( 1000 576 -231 ) ( 1001 576 -232 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 1000 576 -232 ) ( 1001 576 -232 ) ( 1000 577 -232 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1016 640 -224 ) ( 1016 641 -224 ) ( 1017 640 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1016 640 -224 ) ( 1017 640 -224 ) ( 1016 640 -223 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 -16 ] [ 0 0 -1 4 ] 0 0.5 0.5
+( 1008 640 -224 ) ( 1008 640 -223 ) ( 1008 641 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 4 ] 0 0.5 0.5
+}
+// brush 86
+{
+( 984 576 -224 ) ( 984 577 -224 ) ( 984 576 -223 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 -1 0 0 ] [ 0 0 -1 20 ] 0 0.5 0.5
+( 984 576 -224 ) ( 984 576 -223 ) ( 985 576 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 0 -1 20 ] 0 0.5 0.5
+( 984 576 -224 ) ( 985 576 -224 ) ( 984 577 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1000 640 -216 ) ( 1000 641 -216 ) ( 1001 640 -216 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 1000 640 -216 ) ( 1001 640 -216 ) ( 1000 640 -215 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 16 ] [ 0 0 -1 20 ] 0 0.5 0.5
+( 992 640 -216 ) ( 992 640 -215 ) ( 992 641 -216 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 0 ] [ 0 0 -1 20 ] 0 0.5 0.5
+}
+// brush 87
+{
+( 1024 560 -512 ) ( 1024 561 -512 ) ( 1024 560 -511 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 1 0 -192 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 416 -512 ) ( 1024 416 -511 ) ( 1025 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 560 -512 ) ( 1025 560 -512 ) ( 1024 561 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 1104 720 -240 ) ( 1104 721 -240 ) ( 1105 720 -240 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1104 704 -496 ) ( 1105 704 -496 ) ( 1104 704 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 1280 720 -496 ) ( 1280 720 -495 ) ( 1280 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 88
+{
+( 432 576 16 ) ( 432 577 16 ) ( 432 576 17 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 32 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 432 560 0 ) ( 432 560 1 ) ( 433 560 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 432 560 0 ) ( 433 560 0 ) ( 432 561 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ 0 -1 0 -6 ] 0 0.5 0.5
+( 448 576 16 ) ( 448 577 16 ) ( 449 576 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 0.5 0.5
+( 448 576 16 ) ( 449 576 16 ) ( 448 576 17 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 536 576 16 ) ( 536 576 17 ) ( 536 577 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 32 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+}
+// brush 89
+{
+( 432 656 16 ) ( 432 657 16 ) ( 432 656 17 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 -128 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 432 640 0 ) ( 432 640 1 ) ( 433 640 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 432 640 0 ) ( 433 640 0 ) ( 432 641 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ 0 -1 0 154 ] 0 0.5 0.5
+( 448 656 16 ) ( 448 657 16 ) ( 449 656 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ 0 -1 0 154 ] 0 0.5 0.5
+( 448 656 16 ) ( 449 656 16 ) ( 448 656 17 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 536 656 16 ) ( 536 656 17 ) ( 536 657 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 -128 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+}
+// brush 90
+{
+( 536 656 16 ) ( 536 640 16 ) ( 536 640 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 -128 ] [ 0 0 -1 -32 ] 0 0.5 0.5
+( 1024 640 -240 ) ( 1024 656 -240 ) ( 536 656 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -0.805236961696613 0 0.3960181778835542 -208.78601 ] [ 0 -1 0 154 ] 23.988094 0.5 0.5
+( 536 640 16 ) ( 1024 640 -224 ) ( 1024 640 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 1 0 0 0 ] [ -0.49180327868852447 0 -1 -16.786865 ] 27.630707 0.5 0.5
+( 1024 656 -240 ) ( 1024 656 -224 ) ( 536 656 16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ -1 0 0 0 ] [ -0.49180327868852447 0 -1 -16.786865 ] 332.36926 0.5 0.5
+( 536 656 16 ) ( 1024 656 -224 ) ( 1024 640 -224 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0.8052369616966144 0 -0.3960181778835515 221.45862 ] [ 0 -1 0 154 ] 23.988096 0.5 0.5
+( 1024 640 -224 ) ( 1024 656 -224 ) ( 1024 656 -240 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND13 [ 0 1 0 -128 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 91
+{
+( 1024 416 -384 ) ( 1024 32 -384 ) ( 1024 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1.7361112547575885e-14 1.083333333333334 0 141.33328 ] [ 0 0 -1 0 ] 22.619867 1 1
+( 1024 32 -384 ) ( 1280 32 -384 ) ( 1280 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1.0000000000000009 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
+( 1280 32 -512 ) ( 1280 416 -512 ) ( 1024 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 1024 416 -384 ) ( 1280 416 -384 ) ( 1280 32 -384 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1280 416 -512 ) ( 1280 416 -384 ) ( 1024 416 -384 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
+( 1280 32 -384 ) ( 1280 416 -384 ) ( 1280 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 92
+{
+( 1024 32 -384 ) ( 1024 -208 -384 ) ( 1024 -208 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1.942890293094024e-16 1.0000000000000002 0 143.99997 ] [ 0 0 -1 0 ] 0 1 1
+( 864 -208 -384 ) ( 1456 -208 -384 ) ( 1456 -208 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 3.3306690738754696e-16 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1456 -208 -512 ) ( 1456 32 -512 ) ( 864 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 864 32 -384 ) ( 1456 32 -384 ) ( 1456 -208 -384 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1456 32 -512 ) ( 1456 32 -384 ) ( 864 32 -384 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -0.6153846153846153 0 0 -12.307709 ] [ 0 0 -1 0 ] 0 1 1
+( 1456 -208 -384 ) ( 1456 32 -384 ) ( 1456 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 93
+{
+( 1280 416 -240 ) ( 1280 32 -384 ) ( 1280 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 1 0 -160 ] [ 0 0 -1 0 ] 0 1 1
+( 1280 32 -384 ) ( 1456 32 -384 ) ( 1456 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -0.6153846153846153 0 0 -12.307709 ] [ 0 0 -1 0 ] 0 1 1
+( 1280 416 -240 ) ( 1456 416 -240 ) ( 1456 32 -384 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 0.9999999999999999 0 0 0 ] [ 0 -0.9363291775690444 -0.35112344158839187 -136.86887 ] 0 1 1
+( 1456 32 -512 ) ( 1456 416 -512 ) ( 1280 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 1456 416 -512 ) ( 1456 416 -240 ) ( 1280 416 -240 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -0.47058823529411764 15.058824 ] 0 1 1
+( 1456 32 -384 ) ( 1456 416 -240 ) ( 1456 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 94
+{
+( 1280 720 -496 ) ( 1280 721 -496 ) ( 1280 720 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 1024 416 -512 ) ( 1024 416 -511 ) ( 1025 416 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 560 -512 ) ( 1025 560 -512 ) ( 1024 561 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 1104 720 -240 ) ( 1104 721 -240 ) ( 1105 720 -240 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1104 704 -496 ) ( 1105 704 -496 ) ( 1104 704 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 1456 720 -496 ) ( 1456 720 -495 ) ( 1456 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 95
+{
+( 864 80 16 ) ( 864 81 16 ) ( 864 80 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -208 -512 ) ( -287 -208 -512 ) ( -288 -207 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 -208 0 ) ( -287 -208 0 ) ( -288 -208 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1456 80 16 ) ( 1456 80 17 ) ( 1456 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 96
+{
+( -256 -64 -16 ) ( -256 -63 -16 ) ( -256 -64 -15 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -576 -16 ) ( -64 -576 -15 ) ( -63 -576 -16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -64 0 ) ( -63 -64 0 ) ( -64 -63 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 64 64 16 ) ( 64 65 16 ) ( 65 64 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -64 -208 -16 ) ( -63 -208 -16 ) ( -64 -208 -15 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 64 64 16 ) ( 64 64 17 ) ( 64 65 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 97
+{
+( 72 96 32 ) ( 72 96 33 ) ( 72 95 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -114.33334 ] [ 0 0 -1 3 ] 0 1.2 1
+( -112 -480 32 ) ( -112 -480 33 ) ( -111 -480 32 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 -80 ] [ 0 0 -1 0 ] 0 1 1
+( -304 128 16 ) ( -304 127 16 ) ( -303 128 16 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -160 ] [ -1 -6.123233995736766e-17 0 80 ] 270 1 1
+( -304 128 128 ) ( -303 128 128 ) ( -304 127 128 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -160 ] [ -1 -6.123233995736766e-17 0 80 ] 90 1 1
+( -112 -320 32 ) ( -111 -320 32 ) ( -112 -320 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ 1 6.123233995736766e-17 0 -80 ] [ 0 0 -1 0 ] 0 1 1
+( 80 96 32 ) ( 80 95 32 ) ( 80 96 33 ) working/permissive/downpour/Usable/Doors/BCDOOR1 [ -6.123233995736766e-17 1 0 -160 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 98
+{
+( 64 -480 0 ) ( 64 -479 0 ) ( 64 -480 1 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -480 0 ) ( 64 -480 1 ) ( 65 -480 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -480 0 ) ( 65 -480 0 ) ( 64 -479 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 192 ] 0 0.5 0.5
+( 160 -336 16 ) ( 160 -335 16 ) ( 161 -336 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 160 -320 16 ) ( 161 -320 16 ) ( 160 -320 17 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 96 -336 16 ) ( 96 -336 17 ) ( 96 -335 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 -192 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 99
+{
+( 64 384 0 ) ( 64 385 0 ) ( 64 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -576 0 ) ( 64 -576 1 ) ( 65 -576 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 -480 0 ) ( 65 -480 0 ) ( 64 -480 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 96 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 100
+{
+( 64 -480 128 ) ( 64 -479 128 ) ( 64 -480 129 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -480 128 ) ( 64 -480 129 ) ( 65 -480 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -480 128 ) ( 65 -480 128 ) ( 64 -479 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.930380657631324e-32 -1 -2.220446049250313e-16 32 ] [ 1 0 -2.220446049250313e-16 -128 ] 0 0.5 0.5
+( 80 -320 176 ) ( 80 -319 176 ) ( 81 -320 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 80 -320 144 ) ( 81 -320 144 ) ( 80 -320 145 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 -320 144 ) ( 80 -320 145 ) ( 80 -319 144 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 101
+{
+( -256 224 160 ) ( -256 225 160 ) ( -256 224 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( -256 -576 160 ) ( -256 -576 161 ) ( -255 -576 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( -256 224 160 ) ( -255 224 160 ) ( -256 225 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 512 176 ) ( 64 513 176 ) ( 65 512 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -256 -224 160 ) ( -255 -224 160 ) ( -256 -224 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+( 64 512 176 ) ( 64 512 177 ) ( 64 513 176 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 0.5 0.5
+}
+// brush 102
+{
+( -272 -112 24 ) ( -272 -111 24 ) ( -272 -112 25 ) working/permissive/downpour/Usable/Doors/door2 [ -6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -264 -176 16 ) ( -265 -176 16 ) ( -264 -176 17 ) working/permissive/downpour/Usable/Doors/door2 [ 1 -6.123233995736766e-17 0 16 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -264 -176 16 ) ( -264 -175 16 ) ( -265 -176 16 ) working/permissive/downpour/Usable/Doors/door2 [ -6.123233995736766e-17 -1 0 32 ] [ 1 -6.123233995736766e-17 0 16 ] 90 0.2 0.2
+( -272 -112 112 ) ( -273 -112 112 ) ( -272 -111 112 ) working/permissive/downpour/Usable/Doors/door2 [ 6.123233995736766e-17 1 0 -32 ] [ 1 -6.123233995736766e-17 0 16 ] 270 0.2 0.2
+( -272 -112 24 ) ( -272 -112 25 ) ( -273 -112 24 ) working/permissive/downpour/Usable/Doors/door2 [ -1 6.123233995736766e-17 0 -16 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -264 -176 16 ) ( -264 -176 17 ) ( -264 -175 16 ) working/permissive/downpour/Usable/Doors/door2 [ 6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 10 ] 0 1 0.8
+}
+// brush 103
+{
+( -272 -240 24 ) ( -272 -239 24 ) ( -272 -240 25 ) working/permissive/downpour/Usable/Doors/door3 [ 6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 17 ] 0 1 0.8
+( -264 -304 16 ) ( -265 -304 16 ) ( -264 -304 17 ) working/permissive/downpour/Usable/Doors/door3 [ 1 -6.123233995736766e-17 0 16 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -264 -304 16 ) ( -264 -303 16 ) ( -265 -304 16 ) working/permissive/downpour/Usable/Doors/door3 [ -6.123233995736766e-17 -1 0 -32 ] [ 1 -6.123233995736766e-17 0 16 ] 90 0.2 0.2
+( -272 -240 112 ) ( -273 -240 112 ) ( -272 -239 112 ) working/permissive/downpour/Usable/Doors/door3 [ 6.123233995736766e-17 1 0 32 ] [ 1 -6.123233995736766e-17 0 16 ] 270 0.2 0.2
+( -272 -240 24 ) ( -272 -240 25 ) ( -273 -240 24 ) working/permissive/downpour/Usable/Doors/door3 [ -1 6.123233995736766e-17 0 -16 ] [ 0 0 -1 0 ] 0 0.2 0.2
+( -264 -304 16 ) ( -264 -304 17 ) ( -264 -303 16 ) working/permissive/downpour/Usable/Doors/door3 [ 6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 17 ] 0 1 0.8
+}
+// brush 104
+{
+( -272 -160 0 ) ( -272 -159 0 ) ( -272 -160 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -240 0 ) ( -288 -240 1 ) ( -287 -240 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -160 0 ) ( -287 -160 0 ) ( -288 -159 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 32 160 ) ( -256 33 160 ) ( -255 32 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -288 -176 0 ) ( -287 -176 0 ) ( -288 -176 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 128 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 32 32 ) ( -256 32 33 ) ( -256 33 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 105
+{
+( -272 -160 0 ) ( -272 -159 0 ) ( -272 -160 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -576 0 ) ( -288 -576 1 ) ( -287 -576 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -160 0 ) ( -287 -160 0 ) ( -288 -159 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 32 160 ) ( -256 33 160 ) ( -255 32 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -288 -304 0 ) ( -287 -304 0 ) ( -288 -304 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 128 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 32 32 ) ( -256 32 33 ) ( -256 33 32 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 106
+{
+( -272 -304 112 ) ( -272 -303 112 ) ( -272 -304 113 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -272 -304 112 ) ( -272 -304 113 ) ( -271 -304 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -272 -304 112 ) ( -271 -304 112 ) ( -272 -303 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.930380657631324e-32 -1 2.220446049250313e-16 32 ] [ -1 0 -2.220446049250313e-16 -224 ] 0 0.5 0.5
+( -240 -272 160 ) ( -240 -271 160 ) ( -239 -272 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -240 -240 128 ) ( -239 -240 128 ) ( -240 -240 129 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 -272 128 ) ( -256 -272 129 ) ( -256 -271 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 107
+{
+( -272 -176 112 ) ( -272 -175 112 ) ( -272 -176 113 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -272 -176 112 ) ( -272 -176 113 ) ( -271 -176 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -272 -176 112 ) ( -271 -176 112 ) ( -272 -175 112 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -4.930380657631324e-32 -1 2.220446049250313e-16 32 ] [ -1 0 -2.220446049250313e-16 -224 ] 0 0.5 0.5
+( -240 -144 160 ) ( -240 -143 160 ) ( -239 -144 160 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -240 -112 128 ) ( -239 -112 128 ) ( -240 -112 129 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 -144 128 ) ( -256 -144 129 ) ( -256 -143 128 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -2.220446049250313e-16 -1 0 32 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 108
+{
+( -256 384 0 ) ( -256 385 0 ) ( -256 384 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 -592 0 ) ( 64 -592 1 ) ( 65 -592 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 64 384 0 ) ( 65 384 0 ) ( 64 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 208 512 176 ) ( 208 513 176 ) ( 209 512 176 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 64 -576 0 ) ( 65 -576 0 ) ( 64 -576 1 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 1 -2.7755575615628914e-16 0 160 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 80 384 0 ) ( 80 384 1 ) ( 80 385 0 ) working/permissive/downpour/City/City_Decor/CRWALL2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 109
+{
+( -288 -320 0 ) ( -288 -319 0 ) ( -288 -320 1 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -320 0 ) ( -288 -320 1 ) ( -287 -320 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -288 -320 0 ) ( -287 -320 0 ) ( -288 -319 0 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -256 -224 16 ) ( -256 -223 16 ) ( -255 -224 16 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -256 -112 32 ) ( -255 -112 32 ) ( -256 -112 33 ) working/permissive/downpour/City/City_Decor/PLAST1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -256 -224 32 ) ( -256 -224 33 ) ( -256 -223 32 ) working/permissive/downpour/City/City_Decor/PLAST1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 110
+{
+( -176 456 144 ) ( -176 457 144 ) ( -176 456 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 456 144 ) ( -168 456 145 ) ( -167 456 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 456 144 ) ( -167 456 144 ) ( -168 457 144 ) lights/k_3000 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 464 152 ) ( -152 465 152 ) ( -151 464 152 ) lights/k_3000 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 464 152 ) ( -151 464 152 ) ( -152 464 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -144 464 152 ) ( -144 464 153 ) ( -144 465 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 111
+{
+( -192 456 152 ) ( -192 457 152 ) ( -192 456 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 -1 0 168 ] [ 0 0 -1 0 ] 0 1 1
+( -200 456 152 ) ( -200 456 153 ) ( -199 456 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -200 456 152 ) ( -199 456 152 ) ( -200 457 152 ) working/permissive/downpour/Lights/light06 [ 4.371139006309477e-08 -0.999999999999999 0 0 ] [ 0.999999999999999 4.371139006309477e-08 0 0 ] 90 1 1
+( -144 464 160 ) ( -144 465 160 ) ( -143 464 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 -2.220446049250313e-16 40 ] 0 1 1
+( -144 464 160 ) ( -143 464 160 ) ( -144 464 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -128 464 160 ) ( -128 464 161 ) ( -128 465 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 1 0 -232 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 112
+{
+( -176 616 144 ) ( -176 617 144 ) ( -176 616 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 616 144 ) ( -168 616 145 ) ( -167 616 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 616 144 ) ( -167 616 144 ) ( -168 617 144 ) lights/k_3000 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 624 152 ) ( -152 625 152 ) ( -151 624 152 ) lights/k_3000 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 624 152 ) ( -151 624 152 ) ( -152 624 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -144 624 152 ) ( -144 624 153 ) ( -144 625 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 113
+{
+( -192 616 152 ) ( -192 617 152 ) ( -192 616 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 -1 0 168 ] [ 0 0 -1 0 ] 0 1 1
+( -200 616 152 ) ( -200 616 153 ) ( -199 616 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -200 616 152 ) ( -199 616 152 ) ( -200 617 152 ) working/permissive/downpour/Lights/light06 [ 4.371139006309477e-08 -0.999999999999999 0 0 ] [ 0.999999999999999 4.371139006309477e-08 0 0 ] 90 1 1
+( -144 624 160 ) ( -144 625 160 ) ( -143 624 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 -1 -2.220446049250313e-16 200 ] 0 1 1
+( -144 624 160 ) ( -143 624 160 ) ( -144 624 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -128 624 160 ) ( -128 624 161 ) ( -128 625 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 1 0 -232 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 114
+{
+( -264 -160 -16 ) ( -264 -159 -16 ) ( -264 -160 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -16 ) ( -272 -160 -15 ) ( -271 -160 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -8 ) ( -271 -160 -8 ) ( -272 -159 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -176 -143 0 ) ( -175 -144 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -175 -144 0 ) ( -176 -144 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 8 -144 0 ) ( 8 -144 1 ) ( 8 -143 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 115
+{
+( -272 -144 -152 ) ( -128 -144 -8 ) ( -128 -160 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0.49999999999999867 0 0.500000000000002 24.000008 ] [ 0 -1 0 -6 ] 18.43495 1 1
+( -128 -160 -8 ) ( -120 -160 -8 ) ( -264 -160 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 6.123233995736767e-17 0 1 32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 327.23712 1 1
+( -264 -144 -152 ) ( -272 -144 -152 ) ( -272 -160 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 -32 ] [ 1 0 -6.123233995736766e-17 8 ] 0 1 1
+( -128 -144 -8 ) ( -120 -144 -8 ) ( -120 -160 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 1 0 32 ] [ 1 0 -6.123233995736766e-17 6 ] 0 1 1
+( -264 -144 -152 ) ( -120 -144 -8 ) ( -128 -144 -8 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -6.123233995736767e-17 0 -1 -32 ] [ 1.0000000000000002 0 -1.0000000000000002 -10 ] 32.76288 1 1
+( -120 -160 -8 ) ( -120 -144 -8 ) ( -264 -144 -152 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -0.49999999999999534 0 -0.5000000000000049 -16 ] [ 0 -1 0 -6 ] 18.43495 1 1
+}
+// brush 116
+{
+( -272 -160 -16 ) ( -272 -159 -16 ) ( -272 -160 -15 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -16 ) ( -272 -160 -15 ) ( -271 -160 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -272 -160 -336 ) ( -271 -160 -336 ) ( -272 -159 -336 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -176 -143 0 ) ( -175 -144 0 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 1 0 0 0 ] [ 0 -1 0 -6 ] 0 1 1
+( -176 -144 0 ) ( -175 -144 0 ) ( -176 -144 1 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -264 -160 -16 ) ( -264 -160 -15 ) ( -264 -159 -16 ) working/permissive/downpour/Metal/Metal_Industrial/D_IND2 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 117
+{
+( 736 32 -512 ) ( 1024 32 -384 ) ( 1024 -208 -384 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 0.8350515524343654 0 0.3711340070226784 151.42267 ] [ 0 -1 0 0 ] 0 1 1
+( 736 -208 -512 ) ( 1024 -208 -384 ) ( 1024 -208 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 3.3306690738754696e-16 0 192 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 -208 -512 ) ( 1024 32 -512 ) ( 736 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 96 ] 0 1 1
+( 1024 32 -512 ) ( 1024 32 -384 ) ( 736 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -0.6153846153846153 0 0 86.15381 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 -208 -384 ) ( 1024 32 -384 ) ( 1024 32 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1.942890293094024e-16 1.0000000000000002 0 143.99997 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 118
+{
+( -176 296 144 ) ( -176 297 144 ) ( -176 296 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 296 144 ) ( -168 296 145 ) ( -167 296 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -168 296 144 ) ( -167 296 144 ) ( -168 297 144 ) lights/k_3000 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 304 152 ) ( -152 305 152 ) ( -151 304 152 ) lights/k_3000 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( -152 304 152 ) ( -151 304 152 ) ( -152 304 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -144 304 152 ) ( -144 304 153 ) ( -144 305 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 119
+{
+( -192 296 152 ) ( -192 297 152 ) ( -192 296 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 -1 0 104 ] [ 0 0 -1 0 ] 0 1 1
+( -200 296 152 ) ( -200 296 153 ) ( -199 296 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -200 296 152 ) ( -199 296 152 ) ( -200 297 152 ) working/permissive/downpour/Lights/light06 [ 4.371139006309477e-08 -0.999999999999999 0 0 ] [ 0.999999999999999 4.371139006309477e-08 0 0 ] 90 1 1
+( -144 304 160 ) ( -144 305 160 ) ( -143 304 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 1 -2.220446049250313e-16 -208 ] 0 1 1
+( -144 304 160 ) ( -143 304 160 ) ( -144 304 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -128 304 160 ) ( -128 304 161 ) ( -128 305 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 1 0 -168 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 120
+{
+( -104 -128 144 ) ( -104 -128 145 ) ( -104 -129 144 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 -160 152 ) ( -96 -160 153 ) ( -95 -160 152 ) lights/k_3000 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -104 -128 144 ) ( -104 -129 144 ) ( -103 -128 144 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 270 0.5 0.5
+( -96 -144 152 ) ( -95 -144 152 ) ( -96 -145 152 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 90 0.5 0.5
+( -104 -112 144 ) ( -103 -112 144 ) ( -104 -112 145 ) lights/k_3000 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 -144 152 ) ( -96 -145 152 ) ( -96 -144 153 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 121
+{
+( -104 -96 152 ) ( -104 -96 153 ) ( -104 -97 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 40 ] [ 0 0 -1 0 ] 0 1 1
+( -96 -168 160 ) ( -96 -168 161 ) ( -95 -168 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 2.220446049250313e-16 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -104 -96 152 ) ( -104 -97 152 ) ( -103 -96 152 ) working/permissive/downpour/Lights/light06 [ -0.999999999999999 -4.371139012432711e-08 0 0 ] [ 4.371139012432711e-08 -0.999999999999999 0 -40 ] 0 1 1
+( -96 -152 160 ) ( -95 -152 160 ) ( -96 -153 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1.232595164407831e-32 1 -6.123233995736766e-17 40 ] [ 1 0 -2.220446049250313e-16 -64 ] 0 1 1
+( -104 -104 152 ) ( -103 -104 152 ) ( -104 -104 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 2.220446049250313e-16 0 96 ] [ 0 0 -1 0 ] 0 1 1
+( -96 -152 160 ) ( -96 -153 160 ) ( -96 -152 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 40 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 122
+{
+( -104 -320 144 ) ( -104 -320 145 ) ( -104 -321 144 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 -352 152 ) ( -96 -352 153 ) ( -95 -352 152 ) lights/k_3000 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -104 -320 144 ) ( -104 -321 144 ) ( -103 -320 144 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 270 0.5 0.5
+( -96 -336 152 ) ( -95 -336 152 ) ( -96 -337 152 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 90 0.5 0.5
+( -104 -304 144 ) ( -103 -304 144 ) ( -104 -304 145 ) lights/k_3000 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 -336 152 ) ( -96 -337 152 ) ( -96 -336 153 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 123
+{
+( -104 -288 152 ) ( -104 -288 153 ) ( -104 -289 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 -24 ] [ 0 0 -1 0 ] 0 1 1
+( -96 -360 160 ) ( -96 -360 161 ) ( -95 -360 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 2.220446049250313e-16 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -104 -288 152 ) ( -104 -289 152 ) ( -103 -288 152 ) working/permissive/downpour/Lights/light06 [ -0.999999999999999 -4.371139012432711e-08 0 0 ] [ 4.371139012432711e-08 -0.999999999999999 0 24 ] 0 1 1
+( -96 -344 160 ) ( -95 -344 160 ) ( -96 -345 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1.232595164407831e-32 1 -6.123233995736766e-17 -24 ] [ 1 0 -2.220446049250313e-16 -64 ] 0 1 1
+( -104 -296 152 ) ( -103 -296 152 ) ( -104 -296 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 2.220446049250313e-16 0 96 ] [ 0 0 -1 0 ] 0 1 1
+( -96 -344 160 ) ( -96 -345 160 ) ( -96 -344 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 -24 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 124
+{
+( 128 584 152 ) ( 128 585 152 ) ( 128 584 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 -1 0 136 ] [ 0 0 -1 0 ] 0 1 1
+( 120 584 152 ) ( 120 584 153 ) ( 121 584 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 -64 ] [ 0 0 -1 0 ] 0 1 1
+( 120 584 152 ) ( 121 584 152 ) ( 120 585 152 ) working/permissive/downpour/Lights/light06 [ 4.371139006309477e-08 -0.999999999999999 0 0 ] [ 0.999999999999999 4.371139006309477e-08 0 0 ] 90 1 1
+( 176 592 160 ) ( 176 593 160 ) ( 177 592 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 -64 ] [ 0 -1 -2.220446049250313e-16 168 ] 0 1 1
+( 176 592 160 ) ( 177 592 160 ) ( 176 592 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 -64 ] [ 0 0 -1 0 ] 0 1 1
+( 192 592 160 ) ( 192 592 161 ) ( 192 593 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 2.220446049250313e-16 1 0 -200 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 125
+{
+( 136 584 144 ) ( 136 585 144 ) ( 136 584 145 ) lights/k_3000 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 152 584 144 ) ( 152 584 145 ) ( 153 584 144 ) lights/k_3000 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 152 584 144 ) ( 153 584 144 ) ( 152 585 144 ) lights/k_3000 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 168 592 152 ) ( 168 593 152 ) ( 169 592 152 ) lights/k_3000 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.5 0.5
+( 168 592 152 ) ( 169 592 152 ) ( 168 592 153 ) lights/k_3000 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 184 592 152 ) ( 184 592 153 ) ( 184 593 152 ) lights/k_3000 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 126
+{
+( -104 72 144 ) ( -104 72 145 ) ( -104 71 144 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 40 152 ) ( -96 40 153 ) ( -95 40 152 ) lights/k_3000 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -104 72 144 ) ( -104 71 144 ) ( -103 72 144 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 270 0.5 0.5
+( -96 56 152 ) ( -95 56 152 ) ( -96 55 152 ) lights/k_3000 [ 6.123233995736766e-17 -1 0 0 ] [ -1 -6.123233995736766e-17 0 0 ] 90 0.5 0.5
+( -104 88 144 ) ( -103 88 144 ) ( -104 88 145 ) lights/k_3000 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( -96 56 152 ) ( -96 55 152 ) ( -96 56 153 ) lights/k_3000 [ -6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+// brush 127
+{
+( -104 104 152 ) ( -104 104 153 ) ( -104 103 152 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 -160 ] [ 0 0 -1 0 ] 0 1 1
+( -96 32 160 ) ( -96 32 161 ) ( -95 32 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 2.220446049250313e-16 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -104 104 152 ) ( -104 103 152 ) ( -103 104 152 ) working/permissive/downpour/Lights/light06 [ -0.999999999999999 -4.371139012432711e-08 0 0 ] [ 4.371139012432711e-08 -0.999999999999999 0 32.000004 ] 0 1 1
+( -96 48 160 ) ( -95 48 160 ) ( -96 47 160 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1.232595164407831e-32 1 -6.123233995736766e-17 -160 ] [ 1 0 -2.220446049250313e-16 -64 ] 0 1 1
+( -104 96 152 ) ( -103 96 152 ) ( -104 96 153 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 2.220446049250313e-16 0 96 ] [ 0 0 -1 0 ] 0 1 1
+( -96 48 160 ) ( -96 47 160 ) ( -96 48 161 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -6.123233995736766e-17 1 0 -160 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 128
+{
+( -288 -224 320 ) ( -288 704 272 ) ( -288 704 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 -224 320 ) ( -288 -224 272 ) ( -288 -224 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 704 272 ) ( -288 -224 272 ) ( 1472 -224 272 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1472 704 320 ) ( -288 -224 320 ) ( -288 704 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1472 704 320 ) ( -288 704 272 ) ( 1472 704 272 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 704 320 ) ( 1472 -224 272 ) ( 1472 -224 320 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 129
+{
+( 1456 80 16 ) ( 1456 81 16 ) ( 1456 80 17 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 1 0 -112 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -224 0 ) ( -288 -224 1 ) ( -287 -224 0 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1456 256 0 ) ( 1584 288 0 ) ( 1456 288 0 ) working/permissive/downpour/Metal/Metal_Lab/NTBF3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 80 272 ) ( -272 81 272 ) ( -271 80 272 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 720 0 ) ( -287 720 0 ) ( -288 720 1 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1664 80 16 ) ( 1664 80 17 ) ( 1664 81 16 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 130
+{
+( 1456 720 -496 ) ( 1456 721 -496 ) ( 1456 720 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -2.220446049250313e-16 -1 0 -128 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 -208 -512 ) ( 1024 -208 -511 ) ( 1025 -208 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 224 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 560 -512 ) ( 1025 560 -512 ) ( 1024 561 -512 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ -1 0 -2.220446049250313e-16 192 ] 0 1 1
+( 1104 720 -240 ) ( 1104 721 -240 ) ( 1105 720 -240 ) working/permissive/downpour/City/City_Tiles/CBFLR4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1104 704 -496 ) ( 1105 704 -496 ) ( 1104 704 -495 ) working/permissive/downpour/City/City_Concrete/CONC13 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+( 1648 720 -496 ) ( 1648 720 -495 ) ( 1648 721 -496 ) working/permissive/downpour/City/City_Concrete/CONC13 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 0.5 0.5
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "-40 632 52"
+}
+// entity 2
+{
+"classname" "env_glow"
+"origin" "-156 300 124"
+"model" "sprites/light_glow03.tga"
+"scale" "1"
+"renderamt" "255"
+"rendermode" "3"
+"renderfx" "14"
+"rendercolor" "255 255 255"
+}
